@@ -1,7 +1,6 @@
 # Process Mining in Primary Care: Avoiding Adverse Events Due to Hazardous Prescribing
 
-TODO - update the zenodo link
-[![DOI](https://zenodo.org/badge/141592542.svg)](https://zenodo.org/badge/latestdoi/141592542)
+[![DOI](https://zenodo.org/badge/158406448.svg)](https://zenodo.org/badge/latestdoi/158406448)
 
 Supplementary data from our paper which attempts process mining in primary care data.
 
