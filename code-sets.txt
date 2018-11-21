@@ -1,0 +1,1869 @@
+Peptic ulceration
+=================
+76125	Cautery resect gastric ulcer
+761D5	Endo inj haemostas duod ulcer
+761D500	Endo inj haemostas duod ulcer
+761D6	Endo inj haemost gastric ulcer
+761J.	Gastric ulcer operations
+761J0	Closure perforat gastric ulcer
+761J000	Closure perforat gastric ulcer
+761J1	Closure of gastric ulcer NEC
+761J111	Closure of gastric ulcer NEC
+761Jy	Gastric ulcer operation OS
+761Jz	Gastric ulcer operation NOS
+761Jz00	Gastric ulcer operation NOS
+7627.	Operations on duodenal ulcer
+76270	Closure perforate duoden ulcer
+7627000	Closure perforate duoden ulcer
+76271	Suture of duodenal ulcer NEC
+76272	Oversew blood vessel duo ulcer
+7627200	Oversew blood vessel duo ulcer
+7627y	Duodenal ulcer operation OS
+7627y00	Duodenal ulcer operation OS
+7627z	Duodenal ulcer operation NOS
+7627z00	Duodenal ulcer operation NOS
+14C1.	H/O: peptic ulcer
+J1020	Peptic ulcer of oesophagus
+J102000	Peptic ulcer of oesophagus
+J11..	Gastric ulcer - (GU)
+J110.	Acute gastric ulcer
+J1100	Acute GU + no complication
+J1101	Acute GU + haemorrhage
+J110100	Acute GU + haemorrhage
+J110111	Acute GU + haemorrhage
+J1102	Acute GU + perforation
+J110200	Acute GU + perforation
+J1103	Acute GU + h'ge + perforation
+J1104	Acute GU + obstruction
+J110y	Acute GU unspecified
+J110z	Acute gastric ulcer NOS
+J110z00	Acute gastric ulcer NOS
+J111.	Chronic gastric ulcer
+J1110	Chronic GU + no complication
+J1111	Chronic GU + haemorrhage
+J1112	Chronic GU + perforation
+J111200	Chronic GU + perforation
+J111211	Chronic GU + perforation
+J1113	Chronic GU + h'ge + perforat.
+J1114	Chronic GU + obstruction
+J111y	Chronic GU unspecified
+J111z	Chronic gastric ulcer NOS
+J111z00	Chronic gastric ulcer NOS
+J112.	Anti-platelet induced gast ulc
+J112z	Anti-plate induc gast ulc NOS
+J113.	NSAID induced gastric ulcer
+J113z	NSAID induced gastric ulc NOS
+J11y.	Unspecified gastric ulcer
+J11y0	Unspecif. GU + no complication
+J11y1	Unspec. GU + haemorrhage
+J11y2	Unspec. GU + perforation
+J11y3	Unspec. GU + h'ge + perforat.
+J11y4	Unspec. GU + obstruction
+J11yy	Unspec.GU; unspec.h'ge/perf.
+J11yz	Unspecified gastric ulcer NOS
+J11yz00	Unspecified gastric ulcer NOS
+J11z.	Gastric ulcer NOS
+J12..	Duodenal ulcer - (DU)
+J120.	Acute duodenal ulcer
+J1200	Acute DU + no complication
+J1201	Acute DU + haemorrhage
+J120100	Acute DU + haemorrhage
+J1202	Acute DU + perforation
+J120200	Acute DU + perforation
+J1203	Acute DU + h'ge + perforation
+J120300	Acute DU + h'ge + perforation
+J1204	Acute DU + obstruction
+J120y	Acute DU unspecified
+J120z	Acute duodenal ulcer NOS
+J120z00	Acute duodenal ulcer NOS
+J121.	Chronic duodenal ulcer
+J1210	Chronic DU + no complication
+J121000	Chronic DU + no complication
+J1211	Chronic DU + haemorrhage
+J121100	Chronic DU + haemorrhage
+J121111	Chronic DU + haemorrhage
+J1212	Chronic DU + perforation
+J121200	Chronic DU + perforation
+J121211	Chronic DU + perforation
+J1213	Chronic DU + h'ge + perforat.
+J1214	Chronic DU + obstruction
+J121400	Chronic DU + obstruction
+J121y	Chronic DU unspecified
+J121z	Chronic duodenal ulcer NOS
+J121z00	Chronic duodenal ulcer NOS
+J122.	Duodenal ulcer disease
+J123.	Duodenal erosion
+J124.	Recurrent duodenal ulcer
+J125.	Anti-platelet induced duod ulc
+J125z	Anti-plate induc duod ulc NOS
+J126.	NSAID induced duodenal ulcer
+J126z	NSAID induced duoden ulc NOS
+J12y.	Unspecified duodenal ulcer
+J12y0	Unspec. DU + no complication
+J12y1	Unspec. DU + haemorrhage
+J12y100	Unspec. DU + haemorrhage
+J12y2	Unspec. DU + perforation
+J12y200	Unspec. DU + perforation
+J12y3	Unspec. DU + h'ge + perforat.
+J12y4	Unspec. DU + obstruction
+J12yy	Unspec.DU; unspec.h'ge/perf.
+J12yz	Unspecified duodenal ulcer NOS
+J12z.	Duodenal ulcer NOS
+J13..	Peptic ulcer - (PU) site unsp.
+J130.	Acute peptic ulcer
+J1300	Acute PU + no complication
+J1301	Acute PU + haemorrhage
+J130100	Acute PU + haemorrhage
+J1302	Acute PU + perforation
+J130200	Acute PU + perforation
+J1303	Acute PU + h'ge + perforation
+J1304	Acute PU + obstruction
+J130y	Acute PU unspecified
+J130y00	Acute PU unspecified
+J130z	Acute peptic ulcer NOS
+J130z00	Acute peptic ulcer NOS
+J131.	Chronic peptic ulcer
+J1310	Chronic PU + no complication
+J1311	Chronic PU + haemorrhage
+J1312	Chronic PU + perforation
+J1313	Chronic PU + h'ge + perforat.
+J1314	Chronic PU + obstruction
+J131y	Chronic PU unspecified
+J131y00	Chronic PU unspecified
+J131z	Chronic peptic ulcer NOS
+J131z00	Chronic peptic ulcer NOS
+J13y.	Unspecified peptic ulcer
+J13y0	Unspec. PU + no complication
+J13y1	Unspec. PU + haemorrhage
+J13y2	Unspec. PU + perforation
+J13y3	Unspec. PU + h'ge + perforat.
+J13y4	Unspec. PU + obstruction
+J13yy	Unspec.PU; unspec.h'ge/perf.
+J13yz	Unspecified peptic ulcer NOS
+J13z.	Peptic ulcer NOS
+J14..	Gastrojejunal ulcer (GJU)
+J140.	Acute gastrojejunal ulcer
+J1400	Acute GJU + no complication
+J1401	Acute GJU + haemorrhage
+J1402	Acute GJU + perforation
+J1403	Acute GJU + h'ge + perforation
+J1404	Acute GJU + obstruction
+J140y	Acute GJU unspecified
+J140z	Acute gastrojejunal ulcer NOS
+J141.	Chronic gastrojejunal ulcer
+J1410	Chronic GJU + no complication
+J1411	Chronic GJU + haemorrhage
+J1412	Chronic GJU + perforation
+J1413	Chronic GJU + h'ge + perforat.
+J1414	Chronic GJU + obstruction
+J141y	Chronic GJU unspecified
+J141z	Chronic gastrojejun. ulcer NOS
+J14y.	Unspecif. gastrojejunal ulcer
+J14y0	Unspec. GJU + no complication
+J14y1	Unspec. GJU + haemorrhage
+J14y2	Unspec. GJU + perforation
+J14y3	Unspec. GJU + h'ge + perforat.
+J14y4	Unspec. GJU + obstruction
+J14yy	Unspec.GJU; unspec.h'ge/perf.
+J14yz	Unspec.gastrojejunal ulcer NOS
+J14z.	Gastrojejunal ulcer NOS
+J1733	Duodenal scar
+J173300	Duodenal scar
+J17y7	Deformed duodenal cap (bulb)
+J17y700	Deformed duodenal cap (bulb)
+J17y8	Healed gastric ulcer - scar
+J17y800	Healed gastric ulcer - scar
+ZV127	[V]PH - Digestive system dis.
+ZV12711	[V]PH - Digestive system dis.
+ZV12712	[V]PH - Digestive system dis.
+ZV12C	[V]PH of gastric ulcer
+ZV12C00	[V]PH of gastric ulcer
+
+Gastro-intestinal bleeds
+========================
+J68..	Gastrointestinal haemorrhage
+J680.	Haematemesis
+J681.	Melaena
+J68z.	GIB - Gastrointestinal bleeding
+J68z000	Gastric haemorrhage NOS
+J68z1	Intestinal haemorrhage NOS
+J68z100	Intestinal haemorrhage NOS
+J68z2	Upper gastrointestinal haemorrhage
+J68z200	Upper gastrointestinal haemorrhage
+J68zz	Gastrointestinal tract haemorrhage NOS
+J68zz00	Gastrointestinal tract haemorrhage NOS
+
+NSAIDs
+======
+ACCA10950BRIDL	Acemetacin  Capsules  60 mg
+ACTA28341EMIS	Aceclofenac  Tablets  100 mg
+ADTA16108NEMIS	Advil  Tablets  200 mg
+AICA55	Alrheumat  Capsules  50 mg
+ANCA16110NEMIS	Anadin Ultra  Capsules  200 mg
+APEF9146HILLI	Apsifen F  Effervescent tablet
+APTA194	Apsifen  Tablets  200 mg
+APTA195	Apsifen  Tablets  400 mg
+ARCA211	Artracin  Capsules  25 mg
+ARE/11592NEMIS	Arthrosin  E/c tablets  250 mg
+ARE/11593NEMIS	Arthrosin  E/c tablets  500 mg
+ARM/26311EMIS	Artracin Sr  M/R capsules  75 
+ARTA12804NEMIS	Arcoxia  Tablets  60 mg
+ARTA12806NEMIS	Arcoxia  Tablets  90 mg
+ARTA12807NEMIS	Arcoxia  Tablets  120 mg
+ARTA22354EMIS	Arthrotec 50  Tablets  
+ARTA28967NEMIS	Arcoxia  Tablets  30 mg
+ARTA29148EMIS	Arthrotec 75  Tablets  
+ARTA4234NEMIS	Arthroxen  Tablets  250 mg
+ARTA4235NEMIS	Arthroxen  Tablets  500 mg
+ARTA9211BRIDL	Arthrofen  Tablets  200 mg
+ARTA9213BRIDL	Arthrofen  Tablets  400 mg
+ARTA9215BRIDL	Arthrofen  Tablets  600 mg
+ARTA9217BRIDL	Arthrosin  Tablets  250 mg
+ARTA9219BRIDL	Arthrosin  Tablets  500 mg
+AXM/39415NEMIS	Axorid  M/R capsules  100 mg +
+AXM39414NEMIS	Axorid  M/R capsules  200 mg +
+AZCA4616	Azapropazone  Capsules  300 mg
+AZTA4617	Azapropazone  Tablets  600 mg
+BEM/13816NEMIS	Berlind 75 Retard  M/R capsule
+BEOR17556NEMIS	Benorilate  Oral Suspension Su
+BESA305	Benoral  Sachets  2 g/ sachet
+BESA309	Benorylate  Sachets  2 g
+BESU306	Benoral  Suspension  2 g/5 ml
+BESU310	Benorylate  Suspension  2 g/5 
+BETA15395NEMIS	Bextra  Tablet  10 mg
+BETA15396NEMIS	Bextra  Tablet  20 mg
+BETA15397NEMIS	Bextra  Tablet  40 mg
+BETA17557NEMIS	Benorilate  Tablets  750 mg
+BETA308	Benoral  Tablets  750 mg
+BETA313	Benorylate  Tablets  750 mg
+BRGR19659EMIS	Brufen  Granules  600 mg/sache
+BRM/18880EMIS	Brufen Retard  M/R tablets  80
+BRSY426	Brufen  Syrup  100 mg/5 ml
+BRTA34387EMIS	Brexidol  Tablets  20 mg
+BRTA427	Brufen  Tablets  200 mg
+BRTA428	Brufen  Tablets  400 mg
+BRTA429	Brufen  Tablets  600 mg
+BUTA445	Butacote  Tablets  100 mg
+BUTA446	Butacote  Tablets  200 mg
+BUTA447	Butazolidin  Tablets  100 mg
+BUTA448	Butazolidin  Tablets  200 mg
+CASU14764NEMIS	Calprofen  Sugar free suspensi
+CECA4198NEMIS	Celecoxib  Capsules  100 mg
+CECA4200NEMIS	Celecoxib  Capsules  200 mg
+CECA4202NEMIS	Celebrex  Capsules  100 mg
+CECA4203NEMIS	Celebrex  Capsules  200 mg
+CECA43610NEMIS	Celecoxib  Capsules  400 mg
+CLTA639	Clinoril  Tablets  100 mg
+CLTA640	Clinoril  Tablets  200 mg
+COCA24278EMIS	Contraflam  Capsules  250 mg
+COM/19840EMIS	Codafen Continus  M/R tablets 
+COTA27588EMIS	Contraflam  Tablets  500 mg
+COTA34395EMIS	Condrotec  Tablets  
+CUTA17490NEMIS	Cuprofen Plus  Tablets  
+CUTA29067NEMIS	Cuprofen  Tablets  200 mg
+DEM/12580NEMIS	Defanac Retard  M/R tablets  1
+DEM/6708NEMIS	Defanac Sr  M/R tablets  75 mg
+DEM/6709NEMIS	Defanac Sr  M/R tablets  100 m
+DETA13566NEMIS	Defanac  Tablets  25 mg
+DETA13567NEMIS	Defanac  Tablets  50 mg
+DETA20911NEMIS	Dexibuprofen  Tablets  300 mg
+DETA20913NEMIS	Dexibuprofen  Tablets  400 mg
+DETA50007EMIS	Dexketoprofen Trometamol  Tabl
+di5..	*FENOPROFEN [ANALGESIC]
+di51.	*PROGESIC 200mg tablets
+di5z.	*FENOPROFEN 200mg tablets
+di8..	NAPROXEN SODIUM
+di81.	*SYNFLEX 275mg tablets
+di8z.	*NAPROXEN SODIUM 275mg tablets
+diaW.	ANADIN ULTRA 200mg capsules
+dibC.	SUDAFED DUAL RELIEF MAX tabs
+dic6.	IBUPROF+PSEUDOEPH 200/30mg tab
+dic7.	NUROFEN COLD & FLU tablets
+dic8.	NUROFEN SINUS tablets
+dicB.	LEMSIP FLU 12HR capsules
+dicP.	LEMSIP COLD&FLU SNUS 12HR caps
+dicw.	IBUPROFN+PARACET 200/500mg tab
+DIDI9410HILLI	Diclofenac Sodium  Dispersible
+DIE/1994NEMIS	Diclofenac Sodium  E/c tablets
+DIE/1995NEMIS	Diclofenac Sodium  E/c tablets
+DIE/26685EMIS	Diclofenac Sodium  E/C, M/R ca
+DIE/4229NEMIS	Diclovol  E/c tablets  50 mg
+DIM/1763NEMIS	Diclovol Sr  M/R tablets  75 m
+DIM/1764NEMIS	Diclovol Retard  M/R tablets  
+DIM/19795EMIS	Diclofenac Sodium  M/R tablets
+DIM/22313EMIS	Diclomax Retard  M/R capsules 
+DIM/24452EMIS	Diclofenac Sodium  M/R capsule
+DIM/26681EMIS	Diclomax Sr  M/R capsules  75 
+DIM/26683EMIS	Diclofenac Sodium  M/R capsule
+DIM/26776EMIS	Dicloflex  M/R tablets  100 mg
+DIM/35443EMIS	Dicloflex Sr  M/R tablets  75 
+DIM/4217NEMIS	Digenac Xl 100  M/R tablets  1
+DITA10235BRIDL	Diclofenac Retard  Tablets  10
+DITA1024NEMIS	Diclofenac Potassium  Tablets 
+DITA1026NEMIS	Diclofenac Potassium  Tablets 
+DITA10751BRIDL	Diclozip-25  Tablets  25 mg
+DITA10753BRIDL	Diclozip-50  Tablets  50 mg
+DITA26777EMIS	Dicloflex  Tablets  25 mg
+DITA26778EMIS	Dicloflex  Tablets  50 mg
+DITA4228NEMIS	Diclovol  E/c tablets  25 mg
+DITA884	Diclofenac Sodium  M/R tablets
+DITA885	Diclofenac Sodium  Tablets  25
+DITA886	Diclofenac Sodium  Tablets  50
+DITA896	Diflunisal  Tablets  250 mg
+DITA897	Diflunisal  Tablets  500 mg
+DITA978NEMIS	Diclofenac And Misoprostol  Ta
+DITA979NEMIS	Diclofenac And Misoprostol  Ta
+DOTA962	Dolobid  Tablets  250 mg
+DOTA963	Dolobid  Tablets  500 mg
+DYCA9233BRIDL	Dysman-250  Capsules  250 mg
+DYCA9235BRIDL	Dysman-500  Tablets  500 mg
+EBCA6714NEMIS	Ebretin  Capsules  200 mg
+EBCA6715NEMIS	Ebretin  Capsules  300 mg
+EBTA1019	Ebufac  Tablets  400 mg
+ECCA15788NEMIS	Eccoxolac  Capsules  300 mg
+ECM/17498NEMIS	Econac Sr  M/R tablets  75 mg
+ECM/17500NEMIS	Econac Xl  M/R tablets  100 mg
+EMCA10948BRIDL	Emflex  Capsules  60 mg
+ETCA10348BRIDL	Etodolac  Capsules  300 mg
+ETCA4907	Etodolac  Capsules  200 mg
+ETM/23692NEMIS	Etopan Xl  M/R tablets  600 mg
+ETM/24010EMIS	Etodolac  M/R tablets  600 mg
+ETTA12809NEMIS	Etoricoxib  Tablets  60 mg
+ETTA12810NEMIS	Etoricoxib  Tablets  90 mg
+ETTA12811NEMIS	Etoricoxib  Tablets  120 mg
+ETTA28966NEMIS	Etoricoxib  Tablets  30 mg
+ETTA4908	Etodolac  Tablets  200 mg
+FECA1148	Feldene  Capsules  10 mg
+FECA1149	Feldene  Capsules  20 mg
+FECA1154	Fenbid  Capsules  300 mg
+FECA1156	Fenbufen  Capsules  300 mg
+FEDI1150	Feldene  Dispersible tablets  
+FEDI1151	Feldene  Dispersible tablets  
+FEEF10340BRIDL	Fenbufen  Effervescent tablets
+FEM/13657NEMIS	Fenactol Sr  M/R tablets  75 m
+FEM/13659NEMIS	Fenactol Retard  M/R tablets  
+FEM/26313EMIS	Fenoket  M/R capsules  200 mg
+FESU13344NEMIS	Feverfen  Suspension  100 mg/5
+FETA1157	Fenbufen  Tablets  300 mg
+FETA1158	Fenoprofen  Tablets  200 mg
+FETA1159	Fenoprofen  Tablets  300 mg
+FETA1160	Fenoprofen  Tablets  600 mg
+FETA1161	Fenopron  Tablets  300 mg
+FETA1162	Fenopron  Tablets  600 mg
+FETA13653NEMIS	Fenactol  Tablets  25 mg
+FETA13655NEMIS	Fenactol  Gastro-resistant Tab
+FETA22463EMIS	Feldene Melt  Orodispersible t
+FETA4911	Fenbufen  Tablets  450 mg
+FLCA10333BRIDL	Flurbiprofen Sr  Capsules  200
+FLCA18825EMIS	Fenbuzip 300  Capsules  300 mg
+FLCA24289EMIS	Flamatrol  Capsules  10 mg
+FLCA24290EMIS	Flamatrol  Capsules  20 mg
+FLLO1529NEMIS	Flurbiprofen  Lozenges  8.75 m
+FLM/21338NEMIS	Flamatak  M/R tablets  75 mg
+FLM/21393NEMIS	Flamatak  M/R tablets  100 mg
+FLM/26557EMIS	Flamrase Sr  M/R tablets  100 
+FLM/33810EMIS	Flexotard Mr  M/R tablets  100
+FLM/35149EMIS	Flamrase Sr  M/R tablets  75 m
+FLTA1216	Flurbiprofen  Tablets  100 mg
+FLTA1217	Flurbiprofen  Tablets  50 mg
+FLTA18826EMIS	Fenbuzip 300  Tablets  300 mg
+FLTA18828EMIS	Fenbuzip 450  Tablets  450 mg
+FLTA24255EMIS	Flamrase  Tablets  25 mg
+FLTA24256EMIS	Flamrase  Tablets  50 mg
+FLTA8363EGTON	Flexin Continus  M/R tablets  
+FLTA9564EMIS	Flexin-Ls Continus  M/R tablet
+FLTA9566EMIS	Flexin-25 Continus  M/R tablet
+FRCA8799BRIDL	Froben Sr  Capsules  200 mg
+FRTA1245	Froben  Tablets  100 mg
+FRTA1246	Froben  Tablets  50 mg
+GAOR6426NEMIS	Galprofen  Oral suspension  10
+HETA16101NEMIS	Hedex Ibuprofen  Tablets  200 
+IBCA1427	Ibuprofen  Capsules  300 mg
+IBCA29306NEMIS	Ibuprofen  Capsules  200 mg
+IBCR10558BRIDL	Ibuprofen  Cream  5 %
+IBDI14330NEMIS	Ibuprofen  Dissolving Tablets 
+IBFC10455BRIDL	Ibuprofen  Fc tablets  800 mg
+IBGR19661EMIS	Ibuprofen  Granules  600 mg/sa
+IBM/18882EMIS	Ibuprofen  M/R tablets  800 mg
+IBMO35123EMIS	Ibuprofen  Mousse  5 %
+IBOR24735NEMIS	Ibuprofen  Oral Suspension Sug
+IBSU13346NEMIS	Ibuprofen  Suspension  100 mg/
+IBSU34992EMIS	Ibuprofen  Sugar-free suspensi
+IBSU37580MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSU37581MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSU37582MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSU37583MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSU37584MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSU37585MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSU37586MGEMIS	Ibuprofen  Sugar-free suspensi
+IBSY1428	Ibuprofen  Syrup  100 mg/5 ml
+IBTA1429	Ibuprofen  Tablets  200 mg
+IBTA1430	Ibuprofen  Tablets  400 mg
+IBTA1431	Ibuprofen  Tablets  600 mg
+IBTA19439NEMIS	Ibuprofen M/r And Codeine  Tab
+IBTA25101NEMIS	Ibuprofen And Pseudoephedrine 
+IBTA31837NEMIS	Ibuprofen Lysine  Tablets  200
+IBTA35490MGEMIS	Ibuprofen  Tablets  200 mg (Te
+IBTA35491MGEMIS	Ibuprofen  Tablets  200 mg (Ke
+IBTA35492MGEMIS	Ibuprofen  Tablets  200 mg (Va
+IBTA35493MGEMIS	Ibuprofen  Tablets  200 mg (OB
+IBTA35494MGEMIS	Ibuprofen  Tablets  200 mg (Th
+IBTA35495MGEMIS	Ibuprofen  Tablets  200 mg (Un
+IBTA35496MGEMIS	Ibuprofen  Tablets  200 mg (A.
+IBTA35497MGEMIS	Ibuprofen  Tablets  200 mg (Ra
+IBTA35498MGEMIS	Ibuprofen  Tablets  200 mg (Iv
+IBTA35499MGEMIS	Ibuprofen  Tablets  200 mg (As
+IBTA35500MGEMIS	Ibuprofen  Tablets  200 mg (Wi
+IBTA35501MGEMIS	Ibuprofen  Tablets  200 mg (Su
+IBTA35502MGEMIS	Ibuprofen  Tablets  200 mg (Ll
+IBTA35503MGEMIS	Ibuprofen  Tablets  200 mg (Wo
+IBTA35504MGEMIS	Ibuprofen  Tablets  400 mg (Te
+IBTA35505MGEMIS	Ibuprofen  Tablets  400 mg (Th
+IBTA35506MGEMIS	Ibuprofen  Tablets  400 mg (Va
+IBTA35507MGEMIS	Ibuprofen  Tablets  400 mg (St
+IBTA35508MGEMIS	Ibuprofen  Tablets  400 mg (Ke
+IBTA35509MGEMIS	Ibuprofen  Tablets  400 mg (Un
+IBTA35510MGEMIS	Ibuprofen  Tablets  400 mg (As
+IBTA35511MGEMIS	Ibuprofen  Tablets  400 mg (Ra
+IBTA35512MGEMIS	Ibuprofen  Tablets  400 mg (OB
+IBTA35513MGEMIS	Ibuprofen  Tablets  400 mg (Sa
+IBTA35514MGEMIS	Ibuprofen  Tablets  400 mg (Iv
+IBTA35515MGEMIS	Ibuprofen  Tablets  400 mg (A.
+IBTA35516MGEMIS	Ibuprofen  Tablets  400 mg (Su
+IBTA35517MGEMIS	Ibuprofen  Tablets  400 mg (Ll
+IBTA35518MGEMIS	Ibuprofen  Tablets  400 mg (Wo
+IBTA35519MGEMIS	Ibuprofen  Tablets  400 mg (Ga
+IBTA40030NEMIS	Ibuprofen Lysine  Tablets  684
+IBTAEGTON6109	Ibular  Tablets  200 mg
+IBTAEGTON6111	Ibumetin  Tablets  200 mg
+IBTAEGTON6121	Ibular  Tablets  400 mg
+IBTAEGTON6124	Ibumetin  Tablets  400 mg
+IBTAEGTON6125	Ibumetin  Tablets  600 mg
+IMCA1438	Imbrilon  Capsules  25 mg
+IMCA1439	Imbrilon  Capsules  50 mg
+INCA10535BRIDL	Indomax-25  Capsules  25 mg
+INCA1458	Indocid  Capsules  25 mg
+INCA1459	Indocid  Capsules  50 mg
+INCA1462	Indocid-R  M/R capsules  75 mg
+INCA1463	Indoflex  Capsules  25 mg
+INCA1464	Indolar Sr  M/R capsules  75 m
+INCA1465	Indomod  M/R capsules  25 mg
+INCA1466	Indomod  M/R capsules  75 mg
+INCA17688NEMIS	Indometacin  Capsules  25 mg
+INCA17689NEMIS	Indometacin  Capsules  50 mg
+INCA5024	Indomethacin  Capsules  25 mg
+INCA6932	Indomethacin  Capsules  50 mg
+INM/17691NEMIS	Indometacin  M/R tablets  25 m
+INM/17692NEMIS	Indometacin  M/R tablets  50 m
+INM/17693NEMIS	Indometacin  M/R tablets  75 m
+INM/17694NEMIS	Indometacin  M/R capsules  25 
+INM/17695NEMIS	Indometacin  M/R capsules  75 
+INS/9570EMIS	Indomethacin  M/R tablets  25 
+INS/9571EMIS	Indomethacin  M/R tablets  50 
+INS/9572EMIS	Indomethacin  M/R tablets  75 
+INSL10307BRIDL	Indomethacin  M/R capsules  25
+INSL9953BRIDL	Indomethacin  M/R capsules  75
+INSR10537BRIDL	Indomax-75-Sr  M/R capsules  7
+INSU1461	Indocid  Suspension  25 mg/5 m
+INSU5027	Indomethacin  Suspension  25 m
+j12..	BENORILATE [MUSCSKEL]
+j121.	*BENORAL 750mg tablets
+j122.	*BENORAL 2g/sachet granules
+j123.	*BENORAL 2g/5mL s/f susp 150mL
+j124.	*BENORAL 2g/5mL s/f susp 300mL
+j12x.	*BENORILATE 750mg tablets
+j12y.	*BENORILATE granules 2g/sachet
+j12z.	*BENORILATE 2g/5mL s/f susp
+j2...	NON-STEROIDAL ANTI-INFLAMM NOS
+j21..	AZAPROPAZONE
+j211.	*RHEUMOX 300mg capsules
+j212.	*RHEUMOX 600mg tablets
+j21y.	*AZAPROPAZONE 300mg capsules
+j21z.	*AZAPROPAZONE 600mg tablets
+j22..	DICLOFENAC SODIUM
+j221.	VOLTAROL 25mg tablets
+j222.	VOLTAROL 50mg tablets
+j226.	VOLTAROL RETARD 100mg m/r tabs
+j227.	RHUMALGAN 25mg e/c tablets
+j228.	RHUMALGAN 50mg e/c tablets
+j22A.	*FLAMRASE SR 100mg m/r tablets
+j22B.	MOTIFENE 75mg e/c+m/r capsules
+j22c.	DICLOFENAC 100mg m/r tablets
+j22C.	DICLOFENAC SODIUM 75mg m/r cap
+j22d.	DICLOFENAC 25mg e/c tablets
+j22e.	DICLOFENAC 50mg e/c tablets
+j22f.	*VOLRAMAN 25mg tablets
+j22g.	*VOLRAMAN 50mg tablets
+j22h.	VOLTAROL 50mg disp tablets
+j22H.	DICLOMAX SR 75mg m/r capsules
+j22i.	DICLOFENAC 50mg disp tablets
+j22I.	DICLOFLEX 25mg e/c tablets
+j22j.	*VALENAC 25mg e/c tablets
+j22J.	DICLOFLEX 50mg e/c tablets
+j22k.	*VALENAC 50mg e/c tablets
+j22K.	DICLOFLEX RETARD 100mg m/r tab
+j22l.	*DICLOZIP 25mg tablets
+j22L.	*LOFENSAID-25 tablets
+j22m.	DICLOZIP 50mg tablets
+j22M.	*LOFENSAID-50 tablets
+j22n.	VOLTAROL SR 75mg m/r tablets
+j22N.	RHUMALGAN CR 100mg m/r tablets
+j22o.	ARTHROTEC 50 tablets
+j22O.	RHUMALGAN CR 75mg m/r tablets
+j22p.	DICLOF+MISOPROS 50/0.2mg tabs
+j22P.	VOLSAID RETARD 75mg m/r tabs
+j22q.	DICLOMAX RETARD 100mg m/r caps
+j22Q.	VOLSAID RETARD 100mg m/r tabs
+j22r.	DICLOFENAC 100mg m/r capsules
+j22R.	DICLOFENAC 75mg e/c+m/r caps
+j22s.	*ISCLOFEN 50mg e/c tablets
+j22S.	*LOFENSAID RETARD 75 m/r tabs
+j22t.	DICLOF+MISOPROS 75/0.2mg tabs
+j22T.	*LOFENSAID RETARD 100 m/r tabs
+j22u.	*DICLOFENAC SODIUM 25mg tabs
+j22U.	*SLOFENAC SR 100mg m/r tablets
+j22v.	*DICLOFENAC SODIUM 50mg tabs
+j22V.	*SLOFENAC SR 75mg m/r tablets
+j22w.	*FLAMRASE 25mg tablets
+j22W.	*DIGENAC XL 100 m/r tablets
+j22x.	*FLAMRASE 50mg tablets
+j22X.	*FLEXOTARD 100mg m/r tablets
+j22y.	DICLOFENAC NA 75mg m/r tabs
+j22Y.	*DICLOTARD 75 m/r tablets
+j22z.	ARTHROTEC 75 tablets
+j22Z.	*DICLOTARD 100 m/r tablets
+j23..	DIFLUNISAL [MUSCULO-SKEL]
+j231.	*DOLOBID 250mg tablets
+j232.	*DOLOBID 500mg tablets
+j233.	*DIFLUNISAL 250mg tablets
+j234.	*DIFLUNISAL 500mg tablets
+j24..	ETODOLAC
+j241.	*LODINE 200mg capsules
+j242.	*RAMODAR 200mg tablets
+j243.	*ETODOLAC 200mg capsules
+j244.	*LODINE 300mg capsules
+j245.	*LODINE 200mg tablets
+j246.	*ETODOLAC 200mg tablets
+j247.	ETODOLAC 300mg capsules
+j248.	LODINE SR 600mg m/r tablets
+j249.	ETODOLAC 600mg m/r tablets
+j24A.	*EBRETIN 200mg capsules
+j24B.	*EBRETIN 300mg capsules
+j24C.	ECCOXOLAC 300mg capsules
+j24D.	ETOPAN XL 600mg m/r tablets
+j25..	FENBUFEN
+j251.	*LEDERFEN 300mg capsules x21
+j252.	*LEDERFEN CP 300mg caps x84
+j253.	*LEDERFEN 300mg tablets
+j254.	*LEDERFEN CP 300mg tablets
+j255.	*LEDERFEN 450mg tablets
+j256.	*LEDERFEN F 450mg eff tabs 56
+j257.	*FENBUFEN 300mg capsules
+j258.	*FENBUFEN 300mg tablets
+j259.	*FENBUZIP 300mg capsules
+j25A.	*FENBUZIP 300mg tablets
+j25B.	*FENBUZIP 450mg tablets
+j25y.	*FENBUFEN 450mg tablets
+j25z.	*FENBUFEN 450mg eff tablets
+j26..	FENOPROFEN [MUSC SKEL]
+j261.	FENOPRON 300mg tablets
+j262.	*FENOPRON 600mg tablets
+j263.	FENOPROFEN 300mg tablets
+j264.	*FENOPROFEN 600mg tablets
+j27..	FLURBIPROFEN
+j271.	FROBEN 50mg tablets
+j272.	FROBEN 100mg tablets
+j274.	*FROBEN SR 200mg capsules
+j275.	*FLURBIPROFEN 200mg m/r caps
+j27x.	FLURBIPROFEN 50mg tablets
+j27y.	FLURBIPROFEN 100mg tablets
+j28..	IBUPROFEN [MUSC-SKEL]
+j281.	IBUPROFEN 200mg tablets
+j282.	IBUPROFEN 400mg tablets
+j283.	IBUPROFEN 600mg tablets
+j284.	*APSIFEN 200mg tablets
+j285.	*APSIFEN 400mg tablets
+j286.	*APSIFEN F 600mg eff tablets
+j287.	BRUFEN 200mg tablets
+j288.	BRUFEN 400mg tablets
+j289.	BRUFEN 600mg tablets
+j28a.	BRUFEN 100mg/5mL syrup
+j28A.	BRUFEN RETARD 800mg m/r tabs
+j28b.	EBUFAC 200mg tablets
+j28B.	IBUPROFEN 800mg m/r tablets
+j28c.	EBUFAC 400mg tablets
+j28C.	CUPROFEN 200mg tablets
+j28d.	*FENBID 300mg Spansules
+j28D.	*ISISFEN 400mg tablets
+j28e.	*IBULAR 200mg tablets
+j28E.	*LIDIFEN 200mg tablets
+j28f.	*IBULAR 400mg tablets
+j28F.	*LIDIFEN 400mg tablets
+j28g.	*IBUMETIN 200mg tablets
+j28G.	LIDIFEN 600mg tablets
+j28h.	*IBUMETIN 400mg tablets
+j28H.	*CODAFEN CONTINUS m/r tablets
+j28i.	*IBUMETIN 600mg tablets
+j28I.	NUROFEN PLUS tablets
+j28j.	*MOTRIN 200mg tablets
+j28J.	*JUNIFEN 100mg/5mL s/f susp
+j28k.	*MOTRIN 400mg tablets
+j28K.	*IBUMED 400mg tablets
+j28l.	*MOTRIN 600mg tablets
+j28m.	*PAXOFEN 200mg tablets
+j28M.	*RIMAFEN 200mg tablets
+j28n.	*PAXOFEN 400mg tablets
+j28N.	*RIMAFEN 400mg tablets
+j28o.	*PAXOFEN 600mg tablets
+j28O.	IBUPRO+CODEINE 200/12.5mg tabs
+j28p.	*MOTRIN 800mg tablets
+j28P.	IBUPROFEN 600mg/sach eff grans
+j28q.	*ARTHROFEN 200mg tablets
+j28r.	ARTHROFEN 400mg tablets
+j28R.	*INOVEN 200mg caplets
+j28s.	JUNIFEN 100mg/5mL susp 150mL
+j28S.	RELCOFEN 200mg tablets
+j28t.	*ARTHROFEN 600mg tablets
+j28T.	*RELCOFEN 400mg tablets
+j28u.	*IBUPROFEN 800mg tablets
+j28U.	SOLPAFLEX tablets
+j28v.	BRUFEN 600mg granules
+j28V.	IBUPRO+CODEINE 200/12.8mg tabs
+j28w.	IBUPROFEN 100mg/5mL syrup
+j28W.	*ADVIL 200mg tablets
+j28x.	IBUPROFEN 200mg m/r capsules
+j28X.	*ADVIL EXTRA STRENGTH tablets
+j28y.	IBUPROFEN 300mg m/r capsules
+j28Y.	IBUPROFEN 100mg/5mL s/f syrup
+j28z.	*IBUPR+CODEIN 300/20mg m/r tab
+j28Z.	ANADIN IBUPROFEN 200mg tablets
+j29..	INDOMETACIN
+j291.	INDOMETACIN 25mg capsules
+j292.	INDOMETACIN 50mg capsules
+j294.	ARTRACIN 25mg capsules
+j295.	ARTRACIN 50mg capsules
+j296.	*IMBRILON 25mg capsules
+j297.	*IMBRILON 50mg capsules
+j299.	*INDOCID 25mg capsules
+j29a.	*INDOCID 50mg capsules
+j29A.	*INDOMETACIN 75mg m/r tablets
+j29b.	*INDOCID 25mg/5mL suspension
+j29B.	*FLEXIN CONTINUS 25mg m/r tabs
+j29C.	*FLEXIN CONTIN LS 50mg m/r tab
+j29d.	*INDOCID-R 75mg m/r capsules
+j29D.	*INDOMETACIN 50mg m/r tablets
+j29e.	*INDOFLEX 25mg capsules
+j29E.	*INDOMETACIN 25mg m/r tablets
+j29f.	*INDOLAR 25mg capsules
+j29F.	*RIMACID 25mg capsules
+j29g.	*INDOLAR 50mg capsules
+j29G.	*ARTRACIN SR 75mg m/r capsules
+j29H.	*MAXIMET SR 75mg m/r capsules
+j29i.	INDOLAR SR 75mg m/r capsules
+j29j.	*INDOMOD 25mg m/r capsules
+j29J.	*INDOTARD MR 75mg m/r capsules
+j29k.	*INDOMOD 75mg m/r capsules
+j29K.	PARDELPRIN MR 75mg m/r caps
+j29l.	*MOBILAN 25mg capsules
+j29m.	*MOBILAN 50mg capsules
+j29n.	*RHEUMACIN LA 75mg m/r caps
+j29o.	*SLO-INDO 75mg m/r capsules
+j29p.	*FLEXIN CONTINUS 75mg m/r tabs
+j29r.	*INDOMAX 25mg capsules
+j29s.	*INDOMAX 75mg m/r capsules
+j29t.	*RHEUMACIN LA 75mg m/r caps
+j29u.	BERLIND 75 RETARD 75mg m/r cap
+j29w.	*INDOMETHACIN 25mg/5mL susp
+j29y.	INDOMETACIN 75mg m/r capsules
+j29z.	*INDOMETACIN 25mg m/r capsules
+j2a..	KETOPROFEN
+j2a1.	KETOPROFEN 50mg capsules
+j2a2.	KETOPROFEN 100mg capsules
+j2a4.	*ALRHEUMAT 50mg capsules
+j2a5.	*ORUDIS 50mg capsules
+j2a6.	*ORUDIS 100mg capsules
+j2a8.	ORUVAIL 100mg m/r capsules
+j2a9.	ORUVAIL 200mg m/r capsules
+j2aA.	KETOPROFEN CR 100mg m/r caps
+j2ab.	TILOKET 50mg capsules
+j2aB.	KETOPROFEN CR 200mg m/r caps
+j2ac.	AXORID 100mg/20mg m/r capsules
+j2aC.	KETOVAIL 100mg m/r capsules
+j2ad.	AXORID 200mg/20mg m/r capsules
+j2aD.	KETOVAIL 200mg m/r capsules
+j2aE.	KETONAL 50mg capsules
+j2aF.	KETONAL 100mg capsules
+j2aG.	ORUVAIL 150mg m/r capsules
+j2aH.	LARAFEN CR 200mg m/r capsules
+j2aI.	KETOCID-200 m/r capsules
+j2aJ.	*FENOKET 200mg m/r capsules
+j2aK.	*KETOZIP CR 200mg m/r capsules
+j2aL.	*KETOTARD 200 XL m/r capsules
+j2aM.	*JOMETHID XL 200mg m/r caps
+j2aO.	*KETPRON XL 100mg m/r capsules
+j2aP.	*KETPRON XL 200mg m/r capsules
+j2aQ.	KETIL CR 100mg m/r capsules
+j2aR.	KETIL CR 200mg m/r capsules
+j2aS.	VALKET RETARD 200mg m/r caps
+j2au.	KETPRFN+OMEP 200/20mg m/r caps
+j2av.	KETPRFN+OMEP 100/20mg m/r caps
+j2aw.	KETOPROFEN 150mg m/r capsules
+j2ay.	KETOPROFEN 100mg m/r capsules
+j2az.	KETOPROFEN 200mg m/r capsules
+j2b..	MEFENAMIC ACID [MUSCULO-SKEL]
+j2b1.	MEFENAMIC ACID 250mg capsules
+j2b2.	PONSTAN 250mg capsules
+j2b3.	PONSTAN FORTE 500mg tablets
+j2b4.	*PONSTAN 50mg/5mL paed susp
+j2b5.	*PONSTAN 250mg disp tablets
+j2b6.	*DYSMAN 250mg capsules
+j2b7.	*DYSMAN 500mg tablets
+j2b8.	*CONTRAFLAM 250mg capsules
+j2b9.	*MEFLAM-250 capsules
+j2bA.	*MEFLAM-500 tablets
+j2bB.	*OPUSTAN 250mg capsules
+j2bC.	*OPUSTAN 500mg tablets
+j2bD.	*CONTRAFLAM 500mg tablets
+j2bx.	MEFENAMIC ACID 500mg tablets
+j2by.	MEFENAMIC ACID 50mg/5mL susp
+j2bz.	*MEFENAMIC AC 250mg disp tabs
+j2c..	NAPROXEN
+j2c1.	NAPROXEN 250mg tablets
+j2c2.	NAPROXEN 500mg tablets
+j2c3.	*LARAFLEX 250mg tablets
+j2c4.	*LARAFLEX 500mg tablets
+j2c5.	NAPROSYN 250mg tablets
+j2c6.	NAPROSYN 500mg tablets
+j2c7.	*NAPROSYN 125mg/5mL suspension
+j2c9.	*NAPROSYN granules 500mg/sach
+j2ca.	*VALROX 250mg tablets
+j2cA.	*RHEUFLEX 250mg tablets
+j2cb.	*VALROX 500mg tablets
+j2cB.	*RHEUFLEX 500mg tablets
+j2cc.	*ARTHROSIN 250mg tablets
+j2cC.	*PRANOXEN CONT 375mg m/r tabs
+j2cd.	*ARTHROSIN 500mg tablets
+j2cD.	*PRANOXEN CONT 500mg m/r tabs
+j2ce.	*ARTHROXEN 250mg tablets
+j2cE.	*NAPROSYN S/R 500mg m/r tabs
+j2cf.	*ARTHROXEN 500mg tablets
+j2cF.	*TIMPRON 500mg tablets
+j2cg.	*NAPROSYN 375mg tablets
+j2cG.	*RIMOXYN 500mg tablets
+j2ch.	*NAPROXEN 375mg tablets
+j2cH.	*RIMOXYN 250mg tablets
+j2ci.	*NYCOPREN 250mg e/c tablets
+j2cI.	*TIMPRON 250mg tablets
+j2cj.	*NYCOPREN 500mg e/c tablets
+j2cJ.	*TIMPRON 250 EC e/c tablets
+j2ck.	NAPROXEN 250mg e/c tablets
+j2cK.	*TIMPRON 500 EC e/c tablets
+j2cl.	NAPROXEN 500mg e/c tablets
+j2cL.	*CONDROTEC tablets
+j2cm.	*PROSAID 250mg tablets
+j2cM.	*ARTHROSIN 250mg e/c tablets
+j2cn.	*PROSAID 500mg tablets
+j2cN.	*ARTHROSIN 500mg e/c tablets
+j2co.	NAPROSYN EC 250mg e/c tablets
+j2cO.	FEMINAX ULTRA 250mg tablets
+j2cp.	NAPROSYN EC 375mg e/c tablets
+j2cP.	VIMOVO 500mg/20mg m/r tablets
+j2cq.	NAPROSYN EC 500mg e/c tablets
+j2cr.	NAPRATEC 500mg/0.2mg tabs 2x56
+j2cs.	*NAPROXEN 375mg m/r tablets
+j2ct.	*NAPROXEN 500mg m/r tablets
+j2cu.	NAPROX tab+MISOPROST tab pack
+j2cv.	*NAPROXEN granules 500mg/sach
+j2cw.	NAPROXEN 375mg e/c tablets
+j2cx.	*NAPROX+MISOP 500mg/200mcg tab
+j2cy.	*NAPROXEN 125mg/5mL suspension
+j2cZ.	NAPROX+ESOMEP 500/20mg m/r tab
+j2d..	PHENYLBUTAZONE
+j2d1.	PHENYLBUTAZONE 100mg tablets
+j2d2.	PHENYLBUTAZONE 200mg tablets
+j2d3.	*BUTACOTE 100mg tablets
+j2d4.	*BUTACOTE 200mg tablets
+j2d5.	*BUTAZOLIDIN 100mg tablets
+j2d6.	*BUTAZOLIDIN 200mg tablets
+j2d7.	BUTAZONE 100mg tablets
+j2d8.	BUTAZONE 200mg tablets
+j2e..	PIROXICAM
+j2e1.	PIROXICAM 10mg capsules
+j2e2.	PIROXICAM 20mg capsules
+j2e3.	FELDENE 10mg capsules
+j2e4.	FELDENE 20mg capsules
+j2e5.	*FELDENE 10mg disp tablets
+j2e6.	*FELDENE 20mg disp tablets
+j2e8.	*LARAPAM 10mg capsules
+j2e9.	*LARAPAM 20mg capsules
+j2ea.	*PIROZIP 10mg capsules
+j2eA.	*PIROFLAM-10 capsules
+j2eb.	*PIROZIP 20mg capsules
+j2eB.	*PIROFLAM-20 capsules
+j2ec.	FELDENE MELT 20mg tablets
+j2ee.	*FLAMATROL 10mg capsules
+j2ef.	*FLAMATROL 20mg capsules
+j2ew.	PIROXICAM 20mg melt tablets
+j2ex.	PIROXICAM 10mg disp tablets
+j2ey.	PIROXICAM 20mg disp tablets
+j2f..	SULINDAC
+j2f1.	*CLINORIL 100mg tablets
+j2f2.	*CLINORIL 200mg tablets
+j2fy.	SULINDAC 100mg tablets
+j2fz.	SULINDAC 200mg tablets
+j2g..	TIAPROFENIC ACID
+j2g1.	*SURGAM 200mg tablets
+j2g2.	SURGAM 300mg tablets
+j2g3.	*SURGAM granules 300mg/sachet
+j2g4.	*SURGAM SA 300mg m/r capsules
+j2g5.	*TIAPROFENIC AC 300mg m/r caps
+j2gx.	*TIAPROFENIC ACID 200mg tabs
+j2gy.	TIAPROFENIC ACID 300mg tablets
+j2gz.	*TIAPROFEN AC grans 300mg/sach
+j2h..	TOLMETIN
+j2h1.	*TOLECTIN DS 400mg capsules
+j2h2.	*TOLECTIN 200mg capsules
+j2h3.	*TOLECTIN 400mg capsules
+j2hy.	*TOLMETIN 200mg capsules
+j2hz.	*TOLMETIN 400mg capsules
+j2i..	PIROXICAM-BETADEX
+j2i1.	PIROXICAM-BETADEX 191.3mg tabs
+j2i2.	BREXIDOL 20mg tablets
+j2j..	ACEMETACIN
+j2j1.	ACEMETACIN 60mg capsules
+j2j2.	EMFLEX 60mg capsules
+j2k..	NABUMETONE
+j2k1.	RELIFEX 500mg tablets
+j2k2.	NABUMETONE 500mg tablets
+j2k3.	RELIFEX 500mg/5mL suspension
+j2k4.	NABUMETONE 500mg/5mL susp
+j2k5.	*RELIFEX 500mg disp tabs
+j2k6.	*NABUMETONE 500mg disp tabs
+j2l..	TENOXICAM
+j2l1.	TENOXICAM 20mg tablets
+j2l2.	MOBIFLEX 20mg tablets
+j2l3.	*TENOXICAM 20mg/sachet grans
+j2l4.	*MOBIFLEX 20mg/sachet granules
+j2l5.	*TENOXICAM 20mg eff tabs
+j2l6.	*MOBIFLEX 20mg eff tabs
+j2m..	ACECLOFENAC
+j2m1.	PRESERVEX 100mg tablets
+j2m2.	ACECLOFENAC 100mg tablets
+j2n..	MELOXICAM
+j2n2.	MELOXICAM 7.5mg tablets
+j2n3.	MELOXICAM 15mg tablets
+j2n5.	*MOBIC 7.5mg tablets
+j2n6.	*MOBIC 15mg tablets
+j2o..	DICLOFENAC SODIUM 2
+j2o1.	DICLOFLEX SR 75mg m/r tablets
+j2o2.	*FLAMATAK MR 75mg m/r tablets
+j2o3.	*DIFENOR XL 100mg m/r tablets
+j2o4.	DICLOVOL 25mg e/c tablets
+j2o5.	DICLOVOL 50mg e/c tablets
+j2o6.	DICLOVOL SR 75mg m/r tablets
+j2o7.	*DICLOVOL RETARD 100mg m/r tab
+j2o8.	DEXOMON SR 75mg m/r tablets
+j2o9.	DEXOMON RETARD 100mg m/r tabs
+j2oA.	*ACOFLAM SR 75mg m/r tablets
+j2oB.	*ACOFLAM 50mg e/c tablets
+j2oC.	*ACOFLAM 25mg e/c tablets
+j2oD.	*ACOFLAM RETARD 100mg m/r tabs
+j2oE.	FLAMATAK MR 100mg m/r tablets
+j2oF.	RHEUMATAC RETARD 75mg m/r tabs
+j2oG.	FLAMRASE SR 75mg m/r tablets
+j2oJ.	*CLOSTERIL 100 m/r tablets
+j2ol.	DEFANAC SR 75mg m/r tablets
+j2oL.	RHUMALGAN XL 100mg m/r caps
+j2om.	DEFANAC RETARD 100mg m/r tabs
+j2oM.	RHUMALGAN SR 75mg m/r capsules
+j2oo.	*DEFANAC 25mg e/c tablets
+j2op.	*DEFANAC 50mg e/c tablets
+j2oq.	*FENACTOL 25mg e/c tablets
+j2or.	FENACTOL 50mg e/c tablets
+j2os.	FENACTOL SR 75mg m/r tablets
+j2ot.	FENACTOL RETARD 100mg m/r tabs
+j2ou.	*VALDIC 75 RETRD 75mg m/r tabs
+j2ov.	*VALDIC 100 RETARD m/r tabs
+j2ow.	ECONAC SR 75mg m/r tablets
+j2ox.	ECONAC XL 100mg m/r tablets
+j2p..	IBUPROFEN [MUSC-SKEL USE 2]
+j2p1.	*NUROFEN ADVANCE 200mg tablets
+j2p2.	NUROFEN FOR CHILDREN susp
+j2p3.	NUROFEN LONG LASTING m/r caps
+j2p4.	GALPROFEN 100mg/5mL suspension
+j2p5.	LIBROFEM 200mg tablets
+j2p6.	ORBIFEN FOR CHILDREN s/f susp
+j2p7.	MANDAFEN 600mg tablets
+j2p8.	FEVERFEN 100mg/5mL s/f susp
+j2p9.	NUROFEN FOR CHILDN singls susp
+j2pa.	IBUCALM 400mg tablets
+j2pA.	IBUPROFEN 100mg/5mL sachets
+j2pb.	NUROFEN EXPRESS 400mg/sach pdr
+j2pB.	MANDAFEN 400mg tablets
+j2pc.	IBUPROFEN 400mg/sachet pdr
+j2pC.	ORBIFEN 100mg/5mL s/f susp
+j2pD.	NUROFEN MOBILE 200mg tablets
+j2pE.	FENPAED 100mg/5mL s/f susp
+j2pF.	MANDAFEN 100mg/5mL s/f susp
+j2pG.	CUPROFEN 100mg/5mL s/f susp
+j2pH.	NUROFEN 200mg tablets
+j2pI.	NUROFEN 200mg caplets
+j2pJ.	IBUPROFEN 200mg capsules
+j2pK.	NUROFEN 200mg liquid capsules
+j2pL.	CALPROFEN 100mg/5mL s/f susp
+j2pM.	CUPROFEN PLUS tablets
+j2pN.	ORBIFEN 100mg/5mL s/f sachets
+j2pO.	CARE IBUPRO 100mg/5mL s/f susp
+j2pP.	NUROFEN FOR CHILDRN stbry susp
+j2pQ.	GALPROFEN IBUPROF 200mg caplet
+j2pR.	LLOYDS IBUPROFN 100mg/5mL susp
+j2pS.	NUROFEN TENSION HEADACHE tabs
+j2pT.	SOLPADEINE MIGRAINE IBU+COD
+j2pU.	NUROFEN MAXIMUM 400mg Caplets
+j2pV.	NUROFEN EXTRA 400mg caps
+j2pW.	IBUPROFEN 400mg capsules
+j2pX.	ANADIN ULTRA D/S 400mg caps
+j2pY.	GALPHARM MAX IBPRFN 400mg caps
+j2pZ.	IBUCALM 200mg tablets
+j2q..	DEXKETOPROFEN
+j2q1.	KERAL 25mg tablets
+j2qz.	DEXKETOPROFEN 25mg tablets
+j2r..	DICLOFENAC POTASSIUM
+j2r1.	VOLTAROL RAPID 25mg tablets
+j2r2.	VOLTAROL RAPID 50mg tablets
+j2r3.	VOLTAROL PAIN-EZE 12.5mg tabs
+j2rx.	DICLOFENC POTSSIUM 12.5mg tabs
+j2ry.	DICLOFENAC POTASSIUM 25mg tabs
+j2rz.	DICLOFENAC POTASSIUM 50mg tabs
+j2s..	LORNOXICAM
+j2s1.	*XEFO 4mg tablets
+j2s2.	*XEFO 8mg tablets
+j2sy.	*LORNOXICAM 8mg tablets
+j2sz.	*LORNOXICAM 4mg tablets
+j2t..	DEXIBUPROFEN
+j2t1.	SERACTIL 400mg tablets
+j2t2.	SERACTIL 300mg tablets
+j2ty.	DEXIBUPROFEN 300mg tablets
+j2tz.	DEXIBUPROFEN 400mg tablets
+jA...	COX-2 INHIBITOR DRUG
+jA1..	*ROFECOXIB
+jA11.	*VIOXX 12.5mg tablets
+jA12.	*VIOXX 25mg tablets
+jA13.	*VIOXX 12.5mg/5mL suspension
+jA14.	*VIOXX 25mg/5mL suspension
+jA15.	*VIOXXACUTE 25mg tablets
+jA16.	*VIOXXACUTE 50mg tablets
+jA1v.	*ROFECOXIB 50mg tablets
+jA1w.	*ROFECOXIB 12.5mg tablets
+jA1x.	*ROFECOXIB 25mg tablets
+jA1y.	*ROFECOXIB 12.5mg/5mL susp
+jA1z.	*ROFECOXIB 25mg/5mL suspension
+jA2..	CELECOXIB
+jA21.	CELEBREX 100mg capsules
+jA22.	CELEBREX 200mg capsules
+jA23.	*ONSENAL 400mg capsules
+jA2x.	*CELECOXIB 400mg capsules
+jA2y.	CELECOXIB 200mg capsules
+jA2z.	CELECOXIB 100mg capsules
+jA5..	ETORICOXIB
+jA51.	ETORICOXIB 60mg tablets
+jA52.	ETORICOXIB 90mg tablets
+jA53.	ETORICOXIB 120mg tablets
+jA54.	ARCOXIA 60mg tablets
+jA55.	ARCOXIA 90mg tablets
+jA56.	ARCOXIA 120mg tablets
+jA57.	ARCOXIA 30mg tablets
+jA58.	ETORICOXIB 30mg tablets
+jA6..	*VALDECOXIB
+jA61.	*VALDECOXIB 10mg tablets
+jA62.	*VALDECOXIB 20mg tablets
+jA63.	*VALDECOXIB 40mg tablets
+jA6x.	*BEXTRA 10mg tablets
+jA6y.	*BEXTRA 20mg tablets
+jA6z.	*BEXTRA 40mg tablets
+jA7..	*LUMIRACOXIB
+jA71.	*PREXIGE 100mg tablets
+jA72.	*PREXIGE 400mg tablets
+jA7y.	*LUMIRACOXIB 400mg tablets
+jA7z.	*LUMIRACOXIB 100mg tablets
+JOM/4512NEMIS	Jomethid Xl  M/R capsules  200
+JUSU9285BRIDL	Junifen  Suspension  100 mg/5 
+KECA1569	Ketoprofen  Capsules  100 mg
+KECA1570	Ketoprofen  Capsules  200 mg
+KECA1571	Ketoprofen  Capsules  50 mg
+KECA8761BRIDL	Ketoprofen  M/R capsules  100 
+KECA8763BRIDL	Ketoprofen  M/R capsules  200 
+KEM/1548NEMIS	Ketil Cr  M/R capsules  100 mg
+KEM/1549NEMIS	Ketil Cr  M/R capsules  200 mg
+KEM/24099EMIS	Ketoprofen  M/R capsules  150 
+KEM/24273EMIS	Ketovail  M/R capsules  100 mg
+KEM/24274EMIS	Ketovail  M/R capsules  200 mg
+KEM/26315EMIS	Ketocid  M/R capsules  200 mg
+KEM/26658EMIS	Ketozip Xl  M/R capsules  200 
+KEM/39417NEMIS	Ketoprofen And Omeprazole  M/R
+KEM/39418NEMIS	Ketoprofen And Omeprazole  M/R
+KETA21933EMIS	Ketorolac Trometamol  Tablets 
+KETA50005EMIS	Keral  Tablets  25 mg
+LACA1607	Larapam (Piroxicam)  Capsules 
+LACA1608	Larapam (Piroxicam)  Capsules 
+LAM/4222NEMIS	Larafen Cr  M/R capsules  200 
+LATA1605	Laraflex  Tablets  250 mg
+LATA1606	Laraflex  Tablets  500 mg
+LECA1637	Lederfen  Capsules  300 mg
+LEEF9723BRIDL	Lederfen  Effervescent tablets
+LETA10497BRIDL	Lederfen  Tablets  450 mg
+LETA1638	Lederfen  Tablets  300 mg
+LETA1639	Lederfen F  Tablets  450 mg
+lf3..	FLURBIPROFEN [OROPHARYNGEAL]
+lf31.	*STREFEN 8.75mg lozenges
+lf32.	*STREFLAM 8.75mg lozenges
+lf33.	STREFEN HONEY+LEMON 8.75mg loz
+lf3z.	FLURBIPROFEN 8.75mg lozenges
+LITA19741EMIS	Lidifen-F  Tablets  600 mg
+LITA34263EMIS	Librofem  Tablets  200 mg
+LITA9957BRIDL	Lidifen  Tablets  200 mg
+LITA9959BRIDL	Lidifen  Tablets  400 mg
+LOCA1682	Lodine  Capsules  200 mg
+LOCA9511BRIDL	Lodine  Capsules  300 mg
+LOM/24008EMIS	Lodine Sr  M/R tablets  600 mg
+LOM/29323EMIS	Lofensaid Retard  M/R tablets 
+LOM/29324EMIS	Lofensaid Retard  M/R tablets 
+LOTA10616BRIDL	Lodine  Tablets  200 mg
+LOTA11601NEMIS	Lornoxicam  Tablets  4 mg
+LOTA11603NEMIS	Lornoxicam  Tablets  8 mg
+LOTA27240EMIS	Lofensaid  Tablets  25 mg
+LOTA27241EMIS	Lofensaid  Tablets  50 mg
+LUTA18907NEMIS	Lumiracoxib  Tablets  100 mg
+LUTA18910NEMIS	Lumiracoxib  Tablets  400 mg
+MAM/26319EMIS	Maximet Sr  M/R capsules  75 m
+MECA1751	Mefenamic Acid  Capsules  250 
+MECA26322EMIS	Meflam  Capsules  250 mg
+MEDI7045	Mefenamic Acid  Dispersible ta
+MEPA1752	Mefenamic Acid  Paediatric sus
+MESU11938NEMIS	Mefenamic Acid  Suspension  50
+META1753	Mefenamic Acid  Tablets  500 m
+META26323EMIS	Meflam  Tablets  500 mg
+META28880EMIS	Meloxicam  Tablets  15 mg
+META28881EMIS	Meloxicam  Tablets  7.5 mg
+MOCAEGTON6138	Mobilan  Capsules  25 mg
+MOCAEGTON6139	Mobilan  Capsules  50 mg
+MOEF23713EMIS	Mobiflex  Effervescent tablets
+MOGR22483EMIS	Mobiflex  Granules  20 mg/sach
+MOM/25331EMIS	Motifene  E/C, M/R capsules  7
+MOTA28874EMIS	Mobic  Tablets  15 mg
+MOTA28875EMIS	Mobic  Tablets  7.5 mg
+MOTA8330EGTON	Mobiflex  Tablets  20 mg
+MOTAEGTON6116	Motrin  Tablets  200 mg
+MOTAEGTON6117	Motrin  Tablets  400 mg
+MOTAEGTON6118	Motrin  Tablets  600 mg
+MOTAEGTON6119	Motrin  Tablets  800 mg
+NADI14482NEMIS	Nabumetone  Dispersible tablet
+NAE/9202EMIS	Naproxen  E/c tablets  250 mg
+NAE/9203EMIS	Naproxen  E/c tablets  500 mg
+NAE/9385EMIS	Naprosyn  E/c tablets  250 mg
+NAE/9386EMIS	Naprosyn  E/c tablets  375 mg
+NAE/9387EMIS	Naprosyn  E/c tablets  500 mg
+NAE/9389EMIS	Naproxen  E/c tablets  375 mg
+NAGR1933	Naprosyn  Granules  500 mg
+NAGR5187	Naproxen  Granules  500 mg
+NAM/21940EMIS	Naproxen  M/R tablets  375 mg
+NAM/21941EMIS	Naproxen  M/R tablets  500 mg
+NAM/23440EMIS	Naprosyn Sr  M/R tablets  500 
+NAM/47266NEMIS	Naproxen And Esomeprazole  M/R
+NASU1935	Naprosyn  Suspension  125 mg/5
+NASU5188	Naproxen  Oral suspension  125
+NASU9734HILLI	Nabumetone  Suspension  Sugar 
+NATA18046EMIS	Napratec OP  Tablets  
+NATA1936	Naprosyn  Tablets  250 mg
+NATA1937	Naprosyn  Tablets  500 mg
+NATA1938	Naproxen  Tablets  250 mg
+NATA1939	Naproxen  Tablets  500 mg
+NATA19446NEMIS	Naproxen And Misoprostol  Tabl
+NATA5182	Nabumetone  Tablets  500 mg
+NATA5189	Naproxen Sodium  Tablets  275 
+NATA9272EMIS	Naprosyn  Tablets  375 mg
+NATA9274EMIS	Naproxen  Tablets  375 mg
+NUCA16141NEMIS	Nurofen  Caplets  200 mg
+NUDI14332NEMIS	Nurofen Meltlets  Dissolving T
+NULI16149NEMIS	Nurofen  Liquid Capsules  200 
+NUM/19692NEMIS	Nurofen Back Pain Sr  M/R caps
+NUS/11319NEMIS	Nurofen Long Lasting  S/r caps
+NUSU34990EMIS	Nurofen For Children  Sugar-fr
+NUTA11316NEMIS	Nurofen Advance  Tablets  
+NUTA25108NEMIS	Nurofen Cold & Flu  Tablets  
+NUTA5832NEMIS	Nurofen Plus  Tablets  
+NYE/9198EMIS	Nycopren  E/c tablets  250 mg
+NYE/9199EMIS	Nycopren  E/c tablets  500 mg
+o4a3.	*KETOROLAC TROMETAMOL 10mg tab
+o4a4.	*TORADOL 10mg tablets
+ONCA43612NEMIS	Onsenal  Capsules  400 mg
+OPCA26353EMIS	Opustan  Capsules  250 mg
+OPTA26354EMIS	Opustan  Tablets  500 mg
+ORCA2112	Orudis  Capsules  100 mg
+ORCA2113	Orudis  Capsules  50 mg
+ORCA2115	Oruvail  M/R capsules  100 mg
+ORCA2116	Oruvail  S/r capsules  200 mg
+ORM/24097EMIS	Oruvail  M/R capsules  150 mg
+ORM/24102EMIS	Oruvail  M/R capsules  200 mg
+ORSU13785NEMIS	Orbifen  Sugar-free oral suspe
+PAM/4515NEMIS	Pardelprin  M/R capsules  75 m
+PATA51116NEMIS	Paracetamol And Ibuprofen  Tab
+PATAEGTON6129	Paxofen  Tablets  200 mg
+PATAEGTON6130	Paxofen  Tablets  400 mg
+PATAEGTON6131	Paxofen  Tablets  600 mg
+PHTA5277	Phenylbutazone  Tablets  100 m
+PHTA6826	Phenylbutazone  Tablets  200 m
+PICA10786BRIDL	Pirozip 10  Capsules  10 mg
+PICA10788BRIDL	Pirozip 20  Capsules  20 mg
+PICA2279	Piroxicam  Capsules  10 mg
+PICA2280	Piroxicam  Capsules  20 mg
+PICA26328EMIS	Piroflam  Capsules  10 mg
+PICA26329EMIS	Piroflam  Capsules  20 mg
+PICA36548MGEMIS	Piroxicam  Capsules  20 mg (Iv
+PICA36549MGEMIS	Piroxicam  Capsules  20 mg (Ge
+PICA36550MGEMIS	Piroxicam  Capsules  20 mg (Ke
+PICA36551MGEMIS	Piroxicam  Capsules  20 mg (Un
+PICA36552MGEMIS	Piroxicam  Capsules  20 mg (Al
+PICA36553MGEMIS	Piroxicam  Capsules  20 mg (Th
+PICA36554MGEMIS	Piroxicam  Capsules  20 mg (A.
+PICA36555MGEMIS	Piroxicam  Capsules  20 mg (Sa
+PIDI2281	Piroxicam  Dispersible tablets
+PIDI2282	Piroxicam  Dispersible tablets
+PIDI36560MGEMIS	Piroxicam  Dispersible tablets
+PIDI36561MGEMIS	Piroxicam  Dispersible tablets
+PIDI36562MGEMIS	Piroxicam  Dispersible tablets
+PIDI36563MGEMIS	Piroxicam  Dispersible tablets
+PIIN22461EMIS	Piroxicam  Injection  20 mg/ml
+PIME22465EMIS	Piroxicam  Orodispersible tabl
+PISU2283	Piroxicam  Suppositories  20 m
+PITA34389EMIS	Piroxicam-Beta-Cyclodextrin  T
+POCA2306	Ponstan  Capsules  250 mg
+PODIEGTON6710	Ponstan Dispersible  Dispersib
+POPA2307	Ponstan  Paediatric suspension
+POTA2309	Ponstan  Tablets forte  500 mg
+PRM/21936EMIS	Pranoxen Continus  M/R tablets
+PRM/21937EMIS	Pranoxen Continus  M/R tablets
+PRTA18912NEMIS	Prexige  Tablets  100 mg
+PRTA18914NEMIS	Prexige  Tablets  400 mg
+PRTA22246EMIS	Prosaid  Tablets  250 mg
+PRTA22247EMIS	Prosaid  Tablets  500 mg
+PRTA2364	Progesic  Tablets  200 mg
+PRTA28339EMIS	Preservex  Tablets  100 mg
+RATA2430	Ramodar  Tablets  200 mg
+REDI14483NEMIS	Relifex  Dispersible tablets  
+RESU9873HILLI	Relifex  Suspension  500 mg/5 
+RETA2443	Relifex  Tablets  500 mg
+RHCA2448	Rheumox  Capsules  300 mg
+RHCAEGTON6141	Rheumacin La  M/R capsules  75
+RHM/19274NEMIS	Rhumalgan Sr  M/R capsules  75
+RHM/19276NEMIS	Rhumalgan Xl  M/R capsules  10
+RHM/34588EMIS	Rhumalgan Cr  M/R tablets  100
+RHM/34589EMIS	Rhumalgan Cr  M/R tablets  75 
+RHM/6447NEMIS	Rheumatac Retard  M/R tablets 
+RHM/8969DLSEM	Rhumalgan  M/R tablets  100 mg
+RHM/8971DLSEM	Rhumalgan  M/R tablets  75 mg
+RHTA2449	Rheumox  Tablets  600 mg
+RHTAEGTON6134	Rhumalgan  Tablets  25 mg
+RHTAEGTON6135	Rhumalgan  Tablets  50 mg
+ROOR469NEMIS	Rofecoxib  Oral suspension  Su
+ROOR470NEMIS	Rofecoxib  Oral suspension  Su
+ROTA11575NEMIS	Rofecoxib  Tablets  50 mg
+ROTA466NEMIS	Rofecoxib  Tablets  12.5 mg
+ROTA468NEMIS	Rofecoxib  Tablets  25 mg
+SETA20915NEMIS	Seractil  Tablets  300 mg
+SETA20916NEMIS	Seractil  Tablets  400 mg
+SLCAEGTON6143	Slo-Indo  M/R capsules  75 mg
+SLM/30972EMIS	Slofenac Sr  M/R tablets  100 
+SLM/30974EMIS	Slofenac Sr  M/R tablets  75 m
+SOTA16103NEMIS	Solpaflex  Tablets  
+STLO14771NEMIS	Streflam  Lozenges  8.75 mg
+STLO1530NEMIS	Strefen  Lozenges  8.75 mg
+SUCA8866BRIDL	Surgam Sa  Capsules  300 mg
+SUSA2744	Surgam  Sachets  300 mg
+SUTA2724	Sulindac  Tablets  100 mg
+SUTA2725	Sulindac  Tablets  200 mg
+SUTA2745	Surgam  Tablets  300 mg
+SUTA9172BRIDL	Surgam  Tablets  200 mg
+SYTA4369	Synflex  Tablets  275 mg
+TEEF23715EMIS	Tenoxicam  Effervescent tablet
+TEGR22485EMIS	Tenoxicam  Granules  20 mg/sac
+TETA20599EMIS	Tenoxicam  Tablets  20 mg
+TICA13576NEMIS	Tiloket Cr  M/R capsules  100 
+TICA13577NEMIS	Tiloket Cr  M/R capsules  200 
+TICA18210NEMIS	Tiloket  Capsules  50 mg
+TIE/32937EMIS	Timpron 250 Ec  E/c tablets  2
+TIE/32939EMIS	Timpron 500 Ec  E/c tablets  5
+TIS/9948HILLI	Tiaprofenic Acid  S/r capsules
+TISA5449	Tiaprofenic Acid  Sachets  300
+TITA24281EMIS	Timpron  Tablets  250 mg
+TITA24282EMIS	Timpron  Tablets  500 mg
+TITA2855	Tiaprofenic Acid  Tablets  300
+TITA9554EMIS	Tiaprofenic Acid  Tablets  200
+TOCA2877	Tolectin  Capsules  400 mg
+TOCA5460	Tolmetin  Capsules  400 mg
+TOCA9544BRIDL	Tolectin  Capsules  200 mg
+TOCA9961HILLI	Tolmetin  Capsules  200 mg
+TOTA21931EMIS	Toradol  Tablets  10 mg
+VAE/9987HILLI	Valenac  Tablets  25 mg
+VAE/9988HILLI	Valenac  Tablets  50 mg
+VAM/12791NEMIS	Valdic 75 Retard  M/R tablets 
+VAM/12793NEMIS	Valdic 100 Retard  M/R tablets
+VAM/47025NEMIS	Valket Retard  M/R capsules  2
+VATA15390NEMIS	Valdecoxib  Tablet  10 mg
+VATA15392NEMIS	Valdecoxib  Tablet  20 mg
+VATA15393NEMIS	Valdecoxib  Tablet  40 mg
+VATA9991HILLI	Valrox  Tablets  250 mg
+VATA9992HILLI	Valrox  Tablets  500 mg
+VIM/47268NEMIS	Vimovo  M/R tablets  500 mg + 
+VIOR472NEMIS	Vioxx  Oral suspension  12.5mg
+VIOR473NEMIS	Vioxx  Oral suspension  25mg/5
+VITA11577NEMIS	Vioxxacute  Tablets  25 mg
+VITA11578NEMIS	Vioxxacute  Tablets  50 mg
+VITA474NEMIS	Vioxx  Tablets  12.5 mg
+VITA475NEMIS	Vioxx  Tablets  25 mg
+VODI9425BRIDL	Voltarol  Dispersible tablets 
+VOM/13540NEMIS	Volsaid Retard 75  M/R tablets
+VOM/13542NEMIS	Volsaid Retard 100  M/R tablet
+VOM/28767EMIS	Volsaid Sr 75  M/R tablets  75
+VOM/28769EMIS	Volsaid Sr 100  M/R tablets  1
+VOS/18019EMIS	Voltarol Sr  M/R tablets  75 m
+VOTA1027NEMIS	Voltarol Rapid  Tablets  25 mg
+VOTA1028NEMIS	Voltarol Rapid  Tablets  50 mg
+VOTA3064	Voltarol  Tablets  25 mg
+VOTA3065	Voltarol  Tablets  50 mg
+VOTA3066	Voltarol Retard  M/R tablets  
+VOTA31790NEMIS	Voltarol Pain-Eze  Tablets  12
+VOTA8338EGTON	Voltaren Retard  M/R tablets  
+VOTA9037BRIDL	Volraman  Tablets  25 mg
+VOTA9039BRIDL	Volraman  Tablets  50 mg
+XETA11606NEMIS	Xefo  Tablets  4 mg
+XETA11607NEMIS	Xefo  Tablets  8 mg
+diau.	Feminax Express 342mg tablets (Bayer Plc)
+IBM/25575NEMIS	Ibuprofen 300mg modified-release capsules
+INCA5025	Indometacin  Capsules  75 mg
+NUOR33292NEMIS	Nurofen For Children  Oral Suspension (Strawberry)  100 mg/5 ml
+NUOR33298NEMIS	Nurofen For Children  Oral Suspension (Orange)  100 mg/5 ml
+SUCA2743	Surgam  Capsules  300 mg
+DISU25795EMIS	Diclofenac 25mg suppositories
+DISU25796EMIS	Diclofenac 50mg suppositories
+DISU883	Diclofenac 100mg suppositories
+INSU1460	Indocid 100mg suppositories (Aspen Pharma Trading Ltd)
+INSU17690NEMIS	Indometacin 100mg suppositories
+INSU5026	Indomethacin  Suppositories  100 mg
+j224.	VOLTAROL supp 100mg
+j225.	VOLTAROL supp 12.5mg
+j22a.	DICLOFENAC SODIUM supp 100mg
+j22b.	DICLOFENAC SODIUM supp 12.5mg
+j22D.	VOLTAROL supp 25mg
+j22E.	VOLTAROL supp 50mg
+j22F.	DICLOFENAC SODIUM supp 25mg
+j22G.	DICLOFENAC SODIUM supp 50mg
+j293.	INDOMETACIN supp 100mg
+j29c.	INDOCID SUP 100mg
+VOSU25792EMIS	Voltarol 50mg suppositories (Novartis Pharmaceuticals UK Ltd)
+VOSU3063	Voltarol 100mg suppositories (Novartis Pharmaceuticals UK Ltd)
+
+Gastroprotective medication
+===========================
+a611.	TAGAMET 200mg tablets
+a612.	TAGAMET 400mg tablets
+a613.	TAGAMET 800mg tablets
+a614.	TAGAMET 200mg/5mL syrup
+a617.	*DYSPAMET CHEWTAB 200mg tabs
+a618.	*DYSPAMET 200mg/5mL suspension
+a619.	*CIMETIDNE 200mg/5mL sus 600mL
+a61a.	*ALGITEC 200mg/500mg chew tabs
+a61A.	*GALENAMET 200mg tablets
+a61b.	*ALGITEC 100mg/250mg/5mL susp
+a61B.	*GALENAMET 400mg tablets
+a61c.	*CIMETIDINE COMPOUND susp
+a61C.	*GALENAMET 800mg tablets
+a61d.	*TAGAMET EFFERVESC 400mg tabs
+a61D.	*CIMETIDINE 400mg eff tabs
+a61e.	*PEPTIMAX 200mg tablets
+a61E.	*CIMETIDINE 200mg chew tabs
+a61f.	*PEPTIMAX 400mg tablets
+a61F.	*PHIMETIN 200mg tablets
+a61g.	*PEPTIMAX 800mg tablets
+a61G.	*PHIMETIN 400mg tablets
+a61H.	*PHIMETIN 800mg tablets
+a61I.	CIMETIDINE 200mg/5mL s/f soln
+a61K.	*ZITA 200mg tablets
+a61L.	*ZITA 400mg tablets
+a61M.	*ZITA 800mg tablets
+a61N.	*ULTEC 200mg tablets
+a61O.	*ULTEC 400mg tablets
+a61P.	*ULTEC 800mg tablets
+a61Q.	*ACITAK-200 tablets
+a61R.	*ACITAK-400 tablets
+a61s.	*CIMETIDINE+ALGINIC chew tabs
+a61S.	*ACITAK-800 tablets
+a61t.	*CIMETIDINE+ALGINATE susp
+a61T.	*TAGAMET DUAL ACTION liq 200mL
+a61u.	CIMETIDINE 200mg tablets
+a61U.	*TAGAMET DUAL ACTION liq 600mL
+a61v.	CIMETIDINE 400mg tablets
+a61w.	CIMETIDINE 800mg tablets
+a61x.	CIMETIDINE 200mg/5mL syrup
+a621.	ZANTAC 150mg tablets
+a622.	*ZANTAC 150mg disp tabs
+a623.	ZANTAC 300mg tablets
+a625.	ZANTAC 150mg/10mL sf syr 300mL
+a626.	*ZANTAC EFFERVESCENT 150mg tab
+a627.	*ZANTAC EFFERVESCENT 300mg tab
+a628.	*RANITIDINE 150mg eff tabs
+a629.	*RANITIDINE 300mg eff tabs
+a62A.	*RACIRAN 150mg tablets
+a62B.	*RACIRAN 300mg tablets
+a62C.	*ZAEDOC 150 tablets
+a62D.	*ZAEDOC 300 tablets
+a62E.	*RANTEC 150mg tablets
+a62F.	*RANTEC 300mg tablets
+a62G.	RANITIC 150mg tablets
+a62H.	RANITIC 300mg tablets
+a62I.	HISTAC 150mg tablets
+a62J.	HISTAC 300mg tablets
+a62K.	RANITIL 150mg tablets
+a62L.	RANITIL 300mg tablets
+a62M.	ZANTAC 75 DISSOLVE eff tabs
+a62N.	RANITIDINE 75mg tablets
+a62O.	GAVILAST-P 75mg tablets
+a62P.	RANZAC 75mg tablets
+a62Q.	ZANTAC 75 tablets
+a62u.	RANITIDINE 75mg eff tablets
+a62v.	RANITIDINE 150mg/10mL s/f syr
+a62w.	RANITIDINE 150mg tablets
+a62x.	*RANITIDINE 150mg disp tabs
+a62y.	RANITIDINE 300mg tablets
+a68..	FAMOTIDINE
+a681.	FAMOTIDINE 20mg tablets
+a682.	FAMOTIDINE 40mg tablets
+a683.	*PEPCID 20mg tablets
+a684.	*PEPCID 40mg tablets
+a691.	NIZATIDINE 150mg capsules
+a692.	NIZATIDINE 300mg capsules
+a693.	*AXID 150mg capsules
+a694.	*AXID 300mg capsules
+a697.	*ZINGA 150mg capsules
+a698.	*ZINGA 300mg capsules
+ACTA26301EMIS	Acitak  Tablets  200 mg
+ACTA26302EMIS	Acitak  Tablets  400 mg
+ACTA26303EMIS	Acitak  Tablets  800 mg
+ALSU9283BRIDL	Algitec  Suspension
+ALTA8881EGTON	Algitec  Chewable tablets
+AXCA5859	Axid  Capsules  150 mg
+AXCA9142BRIDL	Axid  Capsules  300 mg
+CICH8422EGTON	Cimetidine  Chewable tablets  
+CICH8966DLSEM	Cimetidine + Alginic Acid  Che
+CIEF9243EMIS	Cimetidine  Effervescent table
+CIOR14287NEMIS	Cimetidine  Oral solution  200
+CISU13821NEMIS	Cimetidine  Sugar free suspens
+CISU8967DLSEM	Cimetidine + Alginic Acid  Sus
+CISY625	Cimetidine  Syrup  200 mg/5 ml
+CITA626	Cimetidine  Tablets  200 mg
+CITA627	Cimetidine  Tablets  400 mg
+CITA628	Cimetidine  Tablets  800 mg
+DYSU10204BRIDL	Dyspamet  Suspension  
+DYTA5853	Dyspamet  Chewable tablets  20
+FATA10123BRIDL	Famotidine  Tablets  40 mg
+FATA7033	Famotidine  Tablets  20 mg
+GATA23984EMIS	Galenamet  Tablets  200 mg
+GATA23985EMIS	Galenamet  Tablets  400 mg
+GATA23986EMIS	Galenamet  Tablets  800 mg
+HITA6654NEMIS	Histac  Tablets  150 mg
+HITA6655NEMIS	Histac  Tablets  300 mg
+NICA6794	Nizatidine  Capsules  150 mg
+NICA8558BRID	Nizatidine  Capsules  300 mg
+PETA10769BRIDL	Peptimax 200  Tablets  200 mg
+PETA10771BRIDL	Peptimax 400  Tablets  400 mg
+PETA10773BRIDL	Peptimax 800  Tablets  800 mg
+PETA5855	Pepcid  Tablets  20 mg
+PETA9082BRIDL	Pepcid  Tablets  40 mg
+PHTA22233EMIS	Phimetin  Tablets  200 mg
+PHTA22234EMIS	Phimetin  Tablets  400 mg
+PHTA22235EMIS	Phimetin  Tablets  800 mg
+PYTA26985EMIS	Pylorid  Tablets  400 mg
+RADI10652BRIDL	Ranitidine  Dispersible tablet
+RAEF17935EMIS	Ranitidine  Effervescent table
+RAEF17936EMIS	Ranitidine  Effervescent table
+RAOR14288NEMIS	Ranitidine  Oral solution  Sug
+RAS/10802BRIDL	Ranitidine  S/f syrup  75 mg/5
+RASY8927BRECO	Ranitidine  Syrup  150 mg/10 m
+RATA11631NEMIS	Ranitil  Tablets  150 mg
+RATA11632NEMIS	Ranitil  Tablets  300 mg
+RATA16163NEMIS	Ranzac  Tablets  75 mg
+RATA2432	Ranitidine  Tablets  150 mg
+RATA2433	Ranitidine  Tablets  300 mg
+RATA26987EMIS	Ranitidine Bismuth Citrate  Ta
+RATA31414EMIS	Raciran  Tablets  150 mg
+RATA31415EMIS	Raciran  Tablets  300 mg
+RATA35233EMIS	Ranitidine  Tablets  75 mg
+RATA35520EMIS	Rantec  Tablets  150 mg
+RATA35521EMIS	Rantec  Tablets  300 mg
+RATA45008NEMIS	Ranitic  Tablets  150 mg
+RATA45009NEMIS	Ranitic  Tablets  300 mg
+TAEF9241EMIS	Tagamet  Effervescent tablets 
+TASU29442EMIS	Tagamet Dual Action  Suspensio
+TASY2774	Tagamet  Syrup  200 mg/5 ml
+TATA2775	Tagamet  Tablets  200 mg
+TATA2776	Tagamet  Tablets  400 mg
+TATA2777	Tagamet  Tablets  800 mg
+ULTA24242EMIS	Ultec  Tablets  200 mg
+ULTA24243EMIS	Ultec  Tablets  400 mg
+ULTA8961DLSEM	Ultec  Tablets  800 mg
+ZADI8963EGTON	Zantac  Dispersible tablets  1
+ZAEF16095NEMIS	Zantac 75 Relief Dissolve  Eff
+ZAEF17931EMIS	Zantac  Effervescent tablets  
+ZAEF17932EMIS	Zantac  Effervescent tablets  
+ZAS/10816BRIDL	Zantac  S/f syrup  75 mg/5 ml
+ZATA16093NEMIS	Zantac 75 Relief  Tablets  75 
+ZATA3090	Zantac  Tablets  150 mg
+ZATA3091	Zantac  Tablets  300 mg
+ZATA32170EMIS	Zaedoc 150  Tablets  150 mg
+ZATA32172EMIS	Zaedoc 300  Tablets  300 mg
+ZATA35231EMIS	Zantac 75  Tablets  75 mg
+ZICA26141EMIS	Zinga  Capsules  150 mg
+ZICA26142EMIS	Zinga  Capsules  300 mg
+ZITA23671EMIS	Zita  Tablets  200 mg
+ZITA23672EMIS	Zita  Tablets  400 mg
+ZITA23673EMIS	Zita  Tablets  800 mg
+a24x.	PEPCIDTWO tabs
+a615.	TAGAMET INJ 200
+a61y.	CIMETIDINE inj 100mg/ml
+a62..	Ranitidine 5mg/5ml oral solution
+a62z.	Ranitidine 50mg/2ml solution for injection ampoules
+a6d1.	RANITIDINE BISMUTH CITRATE TAB 400mg
+a6d2.	PYLORID tabs 400mg
+RAEF18098EMIS	Ranitidine  Effervescent Granules  150 mg
+RAEF18099EMIS	Ranitidine Effervescent granules 300 mg
+RAOR48248NEMIS	Ranitidine 5mg/5ml oral suspension
+RAOR77545NEMIS	Ranitidine 5mg/5ml oral solution
+a6b..	OMEPRAZOLE
+a6b1.	OMEPRAZOLE 20mg e/c capsules
+a6b2.	*LOSEC 20mg capsules x28
+a6b3.	LOSEC 20mg capsules
+a6b4.	LOSEC 40mg capsules
+a6b5.	OMEPRAZOLE 40mg e/c capsules
+a6b6.	LOSEC 10mg capsules
+a6b7.	OMEPRAZOLE 10mg e/c capsules
+a6bC.	LOSEC MUPS 10mg tablets
+a6bD.	LOSEC MUPS 20mg tablets
+a6bE.	LOSEC MUPS 40mg tablets
+a6bF.	*OMERAN 10mg e/c tablets
+a6bG.	*OMERAN 20mg e/c tablets
+a6bH.	*OMERAN 40mg e/c tablets
+a6bI.	ZANPROL 10mg e/c tablets
+a6bJ.	*GALPHARM HEARTBURN 10mg tabs
+a6bK.	UNICHEM HRTBRN RELIEF 10mg tab
+a6bL.	VANTAGE HRTBURN RELF 10mg tabs
+a6bM.	CARE HEARTBURN RELIF 10mg tabs
+a6bN.	NUMARK HEARTBURN RLF 10mg tabs
+a6bO.	MEPRADEC 10mg e/c capsules
+a6bP.	MEPRADEC 20mg e/c capsules
+a6bQ.	MEZZOPRAM 10mg g/r tablets
+a6bR.	MEZZOPRAM 20mg g/r tablets
+a6bS.	MEZZOPRAM 40mg g/r tablets
+a6bu.	OMEPRAZOLE 10mg e/c tablets
+a6bv.	OMEPRAZOLE 20mg e/c tablets
+a6bw.	OMEPRAZOLE 40mg e/c tablets
+a6bx.	OMEPRAZOLE 10mg tablets
+a6by.	OMEPRAZOLE 20mg tablets
+a6bz.	OMEPRAZOLE 40mg tablets
+a6c..	LANSOPRAZOLE
+a6c1.	*ZOTON 30mg capsules
+a6c2.	LANSOPRAZOLE 30mg capsules
+a6c3.	LANSOPRAZOLE 15mg capsules
+a6c4.	*ZOTON 15mg capsules
+a6c5.	*LANSOPRAZOLE 30mg suspension
+a6c6.	*ZOTON 30mg oral suspension
+a6c7.	LANSOPRAZOLE 15mg disp tabs
+a6c8.	LANSOPRAZOLE 30mg disp tabs
+a6c9.	ZOTON FASTAB 15mg disp tabs
+a6cA.	ZOTON FASTAB 30mg disp tabs
+a6e..	PANTOPRAZOLE
+a6e1.	PANTOPRAZOLE 40mg e/c tablets
+a6e2.	*PROTIUM 40mg e/c tablets
+a6e5.	PANTOPRAZOLE 20mg e/c tablets
+a6e6.	*PROTIUM 20mg e/c tablets
+a6e7.	PANTOLOC CONTROL 20mg g/r tabs
+a6f..	RABEPRAZOLE SODIUM
+a6f1.	RABEPRAZOLE NA 10mg e/c tabs
+a6f2.	RABEPRAZOLE NA 20mg e/c tabs
+a6f3.	PARIET 10mg e/c tablets
+a6f4.	PARIET 20mg e/c tablets
+a6h..	ESOMEPRAZOLE
+a6h1.	NEXIUM 20mg tablets
+a6h2.	NEXIUM 40mg tablets
+a6h4.	NEXIUM 10mg g/r granules
+a6h5.	EMOZUL 20mg g/r capsules
+a6h6.	EMOZUL 40mg g/r capsules
+a6hu.	ESOMEPRAZOLE 40mg g/r capsules
+a6hv.	ESOMEPRAZOLE 20mg g/r capsules
+a6hw.	ESOMEPRAZOLE 10mg g/r granules
+a6hy.	ESOMEPRAZOLE 40mg tablets
+a6hz.	ESOMEPRAZOLE 20mg tablets
+j2cZ.	NAPROX+ESOMEP 500/20mg m/r tab
+EMGA45519NEMIS	Emozul  Gastro-resistant Capsu
+EMGA45520NEMIS	Emozul  Gastro-resistant Capsu
+ESGA39420NEMIS	Esomeprazole  Granules for Ora
+ESGA45517NEMIS	Esomeprazole  Gastro-resistant
+ESGA45518NEMIS	Esomeprazole  Gastro-resistant
+ESPO17143NEMIS	Esomeprazole  Powder For Solut
+ESTA5124NEMIS	Esomeprazole  Gastro-resistant
+ESTA5126NEMIS	Esomeprazole  Gastro-resistant
+KEM/39417NEMIS	Ketoprofen And Omeprazole  M/R
+KEM/39418NEMIS	Ketoprofen And Omeprazole  M/R
+LACA24446EMIS	Lansoprazole  Capsules (Gastro
+LACA28117EMIS	Lansoprazole  Capsules (Gastro
+LAOR14898NEMIS	Lansoprazole  Orodispersible t
+LAOR14900NEMIS	Lansoprazole  Orodispersible t
+LASU34195EMIS	Lansoprazole  Granules for Ora
+LOCA23820EMIS	Losec  Capsules  40 mg
+LOCA25323EMIS	Losec  Capsules  10 mg
+LOCA9369BRIDL	Losec  Capsules  20 mg
+LOTA1189NEMIS	Losec Mups  Tablets  10 mg
+LOTA1190NEMIS	Losec Mups  Tablets  20 mg
+LOTA1191NEMIS	Losec Mups  Tablets  40 mg
+MECA23120NEMIS	Mepradec  Capsules (Gastro-Res
+MEGA23119NEMIS	Mepradec  Capsules (Gastro-Res
+MEGA48143NEMIS	Mezzopram  Gastro-resistant Ta
+MEGA48144NEMIS	Mezzopram  Gastro-resistant Ta
+MEGA48145NEMIS	Mezzopram  Gastro-resistant Ta
+NAM/47266NEMIS	Naproxen And Esomeprazole  M/R
+NEGR39419NEMIS	Nexium  Granules for Oral Susp
+NETA5128NEMIS	Nexium  Tablets  20 mg
+NETA5129NEMIS	Nexium  Tablets  40 mg
+OMCA10940BRIDL	Omeprazole  Capsules (Gastro-R
+OMCA23822EMIS	Omeprazole  Capsules (Gastro-R
+OMCA25325EMIS	Omeprazole  Capsules (Gastro-R
+OMCA36304MGEMIS	Omeprazole  Capsules  20 mg (A
+OMCA36305MGEMIS	Omeprazole  Capsules  20 mg (U
+OMCA36306MGEMIS	Omeprazole  Capsules  20 mg (T
+OMCA36307MGEMIS	Omeprazole  Capsules  20 mg (S
+OMCA36308MGEMIS	Omeprazole  Capsules  20 mg (I
+OMCA36309MGEMIS	Omeprazole  Capsules  20 mg (R
+OMCA36310MGEMIS	Omeprazole  Capsules  20 mg (A
+OMCA36311MGEMIS	Omeprazole  Capsules  20 mg (W
+OMCA36312MGEMIS	Omeprazole  Capsules  20 mg (G
+OMCA36313MGEMIS	Omeprazole  Capsules  20 mg (K
+OMCA36314MGEMIS	Omeprazole  Capsules  20 mg (S
+OMCA36315MGEMIS	Omeprazole  Capsules  20 mg (W
+OMCA36316MGEMIS	Omeprazole  Capsules  40 mg (W
+OMCA36317MGEMIS	Omeprazole  Capsules  40 mg (U
+OMCA36318MGEMIS	Omeprazole  Capsules  40 mg (K
+OMCA36319MGEMIS	Omeprazole  Capsules  40 mg (R
+OMCA36320MGEMIS	Omeprazole  Capsules  40 mg (S
+OMCA36321MGEMIS	Omeprazole  Capsules  40 mg (G
+OMCA36322MGEMIS	Omeprazole  Capsules  40 mg (I
+OMCA36323MGEMIS	Omeprazole  Capsules  40 mg (T
+OMCA36324MGEMIS	Omeprazole  Capsules  40 mg (A
+OMCA36325MGEMIS	Omeprazole  Capsules  40 mg (S
+OMCA36326MGEMIS	Omeprazole  Capsules  40 mg (P
+OMCA36327MGEMIS	Omeprazole  Capsules  40 mg (W
+OMCA36328MGEMIS	Omeprazole  Capsules  10 mg (R
+OMCA36329MGEMIS	Omeprazole  Capsules  10 mg (I
+OMCA36330MGEMIS	Omeprazole  Capsules  10 mg (A
+OMCA36331MGEMIS	Omeprazole  Capsules  10 mg (W
+OMCA36332MGEMIS	Omeprazole  Capsules  10 mg (T
+OMCA36333MGEMIS	Omeprazole  Capsules  10 mg (K
+OMCA36334MGEMIS	Omeprazole  Capsules  10 mg (U
+OMCA36335MGEMIS	Omeprazole  Capsules  10 mg (S
+OMCA36336MGEMIS	Omeprazole  Capsules  10 mg (G
+OMCA36337MGEMIS	Omeprazole  Capsules  10 mg (A
+OMCA36338MGEMIS	Omeprazole  Capsules  10 mg (S
+OMCA36339MGEMIS	Omeprazole  Capsules  10 mg (P
+OMCA36340MGEMIS	Omeprazole  Capsules  10 mg (W
+OMDI13049NEMIS	Omeprazole  Dispersible (Gastr
+OMDI13050NEMIS	Omeprazole  Dispersible (Gastr
+OMDI13051NEMIS	Omeprazole  Dispersible (Gastr
+OMIN931NEMIS	Omeprazole  Powder for solutio
+OMOR22068NEMIS	Omeprazole  Oral suspension  2
+OMOR23126NEMIS	Omeprazole  Oral suspension  1
+OMOR46512NEMIS	Omeprazole  Oral solution  40 
+OMOR46513NEMIS	Omeprazole  Oral suspension  4
+OMPO4912NEMIS	Omeprazole  Powder with solven
+OMTA1186NEMIS	Omeprazole  Tablets (Gastro-Re
+OMTA1187NEMIS	Omeprazole  Tablets (Gastro-Re
+OMTA1188NEMIS	Omeprazole  Tablets (Gastro-Re
+OMTA14454NEMIS	Omeran  Tablets  10 mg
+OMTA14455NEMIS	Omeran  Tablets  20 mg
+OMTA14456NEMIS	Omeran  Tablets  40 mg
+PATA199NEMIS	Pantoprazole  Gastro-resistant
+PATA29719EMIS	Pantoprazole  Gastro-resistant
+PATA34090EMIS	Pariet  E/c tablets  10 mg
+PATA34091EMIS	Pariet  E/c tablets  20 mg
+PRTA200NEMIS	Protium  E/c tablets  20 mg
+PRTA29717EMIS	Protium  E/c tablets  40 mg
+RATA34094EMIS	Rabeprazole Sodium  E/c tablet
+RATA34095EMIS	Rabeprazole Sodium  E/c tablet
+ZATA17254NEMIS	Zanprol  Tablets (Gastro-Resis
+ZOCA24444EMIS	Zoton  Capsules (Gastro-Resist
+ZOCA28115EMIS	Zoton  Capsules (Gastro-Resist
+ZOOR14902NEMIS	Zoton Fastab  Orodispersible t
+ZOOR14903NEMIS	Zoton Fastab  Orodispersible t
+ZOSU34193EMIS	Zoton  Granules for Oral Suspe
+a6g1.	AMOXYCILL + CLARITHROMY & LANSOPRAZ tri pac 500mg+500mg+30mg
+a6hx.	ESOMEPRAZOLE pwdr/inj.soln 40mg/vial
+LAOR42925NEMIS	Lansoprazole  Oral suspension  5 mg/5 ml
+OMOR45586NEMIS	Omeprazole 5mg/5ml oral suspension
+
+Antiplatelets
+=============
+ANTA9568BRIDL	Angettes 75  Tablets  75 mg
+ASDI223	Aspirin  Dispersible tablets  
+ASDI224	Aspirin  Dispersible tablets  
+ASDI33798MGEMIS	Aspirin  Dispersible tablets  
+ASDI33799MGEMIS	Aspirin  Dispersible tablets  
+ASDI33800MGEMIS	Aspirin  Dispersible tablets  
+ASDI33801MGEMIS	Aspirin  Dispersible tablets  
+ASDI33802MGEMIS	Aspirin  Dispersible tablets  
+ASDI33803MGEMIS	Aspirin  Dispersible tablets  
+ASDI33804MGEMIS	Aspirin  Dispersible tablets  
+ASDI33805MGEMIS	Aspirin  Dispersible tablets  
+ASDI33806MGEMIS	Aspirin  Dispersible tablets  
+ASDI33807MGEMIS	Aspirin  Dispersible tablets  
+ASDI33808MGEMIS	Aspirin  Dispersible tablets  
+ASDI33809MGEMIS	Aspirin  Dispersible tablets  
+ASDI33810MGEMIS	Aspirin  Dispersible tablets  
+ASDI33811MGEMIS	Aspirin  Dispersible tablets  
+ASE/24520EMIS	Aspirin  E/c tablets  75 mg
+ASE/24522EMIS	Aspirin  E/c tablets  300 mg
+ASE/26084EMIS	Aspirin  E/c tablets  600 mg
+ASE/33812MGEMIS	Aspirin  E/c tablets  75 mg (K
+ASE/33813MGEMIS	Aspirin  E/c tablets  75 mg (A
+ASE/33814MGEMIS	Aspirin  E/c tablets  75 mg (A
+ASE/33815MGEMIS	Aspirin  E/c tablets  75 mg (T
+ASE/33816MGEMIS	Aspirin  E/c tablets  75 mg (U
+ASE/33817MGEMIS	Aspirin  E/c tablets  75 mg (S
+ASE/33818MGEMIS	Aspirin  E/c tablets  75 mg (S
+ASE/33819MGEMIS	Aspirin  E/c tablets  75 mg (I
+ASE/33820MGEMIS	Aspirin  E/c tablets  75 mg (G
+ASE/33821MGEMIS	Aspirin  E/c tablets  75 mg (C
+ASE/33822MGEMIS	Aspirin  E/c tablets  300 mg (
+ASE/33823MGEMIS	Aspirin  E/c tablets  300 mg (
+ASE/33824MGEMIS	Aspirin  E/c tablets  300 mg (
+ASE/33825MGEMIS	Aspirin  E/c tablets  300 mg (
+ASE/33826MGEMIS	Aspirin  E/c tablets  300 mg (
+ASE/37491NEMIS	Aspirin Protect  E/c tablets  
+ASM/22792EMIS	Aspirin  M/R tablets  100 mg
+ASM/22793EMIS	Aspirin  M/R tablets  300 mg
+ASM/33164EMIS	Asasantin Retard  M/R capsules
+ASPO24105NEMIS	Aspirin  Powder Sachets Lactos
+ASS/9158HILLI	Aspirin  E/c tablets  324 mg
+ASSU3023NEMIS	Aspirin  Suppositories  300 mg
+ASSU3024NEMIS	Aspirin  Suppositories  150 mg
+ASSU37686MGEMIS	Aspirin  Suppositories  300 mg
+ASSU37687MGEMIS	Aspirin  Suppositories  300 mg
+ASSU37688MGEMIS	Aspirin  Suppositories  300 mg
+ASSU37689MGEMIS	Aspirin  Suppositories  300 mg
+ASTA10221BRIDL	Aspirin E/C  Tablets  300 mg
+ASTA225	Aspirin  Tablets  300 mg
+ASTA33850MGEMIS	Aspirin  Tablets  300 mg (Kent
+ASTA33851MGEMIS	Aspirin  Tablets  300 mg (Unic
+ASTA33852MGEMIS	Aspirin  Tablets  300 mg (Alph
+ASTA33853MGEMIS	Aspirin  Tablets  300 mg (OBG 
+ASTA33854MGEMIS	Aspirin  Tablets  300 mg (Aspa
+ASTA33855MGEMIS	Aspirin  Tablets  300 mg (A.A.
+ASTA33856MGEMIS	Aspirin  Tablets  300 mg (Vant
+ASTA33857MGEMIS	Aspirin  Tablets  300 mg (Lloy
+ASTA4609	Aspirin  Tablets  75 mg
+ASTA5694	Aspirin Dispersible Low Dose  
+ASTA5696	Aspergum  Chewable tablets  22
+ASTA6958	Aspirin  Tablets  500 mg
+ASTA7014	Aspirin  Tablets  600 mg
+ASTA9082HILLI	Aspirin E/C  Tablets  600 mg
+blm..	*ISMN+ASPIRIN
+blm1.	*IMAZIN XL 60mg/75mg m/r tabs
+blm2.	*IMAZIN XL FORT 60/150 m/r tab
+blmy.	*ISMN+ASPIRIN 60/150mg m/r tab
+blmz.	*ISMN+ASPIRIN 60/75mg m/r tabs
+bu2..	ASPIRIN [ANTIPLATELET]
+bu21.	*ASPIRIN 100mg eff tabs
+bu22.	*PLATET 100mg eff tabs
+bu23.	ASPIRIN 75mg disp tabs
+bu24.	*ANGETTES 75mg tablets
+bu25.	*ASPIRIN 75mg tablets
+bu26.	*PLATET 300mg eff tabs
+bu27.	*ASPIRIN 300mg eff tabs
+bu28.	*DISPRIN CV 100mg m/r tablets
+bu29.	*ASPIRIN 100mg m/r tablets
+bu2a.	*DISPRIN CV 300mg m/r tablets
+bu2A.	NU-SEALS ASPIRIN 75mg e/c tabs
+bu2b.	*ASPIRIN 300mg m/r tablets
+bu2B.	ASPIRIN 75mg e/c tablets
+bu2c.	ASPIRIN 75mg soluble tablets
+bu2C.	*POSTMI 300mg e/c tablets
+bu2d.	FLAMASACARD 162.5mg m/r caps
+bu2D.	*POSTMI 75mg dispersible tabs
+bu2E.	*POSTMI 75mg e/c tablets
+bu2F.	CAPRIN 75mg e/c tablets
+bu2G.	*NU-SEALS CARDIO 75 e/c tabs
+bu2H.	*ENPRIN 75mg e/c tablets
+bu2I.	ASPIRIN 162.5mg m/r capsules
+bu2J.	*CASPAC XL 162.5mg m/r caps
+bu2K.	MICROPIRIN 75mg e/c tablets
+bu4..	DIPYRIDAMOLE+ASPIRIN
+bu41.	DIPYRID+ASP 200mg/25mg m/r cap
+bu42.	ASASANTIN RETARD m/r capsules
+CACA32883EMIS	Caspac Xl  Capsules  162.5 mg
+CAE/28376EMIS	Caprin  E/c tablets  75 mg
+CATA3282	Caprin  E/c tablets  300 mg
+di1..	ASPIRIN [CNS]
+di11.	ASPIRIN [CNS] 300mg tablets
+di12.	ASPIRIN [CNS] 300mg disp tabs
+di13.	*ASPIRIN 75mg disp tabs
+di14.	*ASPERGUM 227mg chewing gum
+di15.	*CLARADIN 300mg tablets
+di16.	*LABOPRIN 300mg tablets
+di17.	*PAYNOCIL 600mg tablets
+di18.	*SOLPRIN 300mg disp tabs
+di19.	*ASPIRIN 500mg m/r tablets
+di1a.	*CAPRIN 324mg e/c tablets
+di1b.	*LEVIUS 500mg m/r tablets
+di1c.	NU-SEALS ASPIRIN 300mg e/ctabs
+di1d.	*NU-SEALS ASPIRIN 600mg tabs
+di1e.	*PALAPRIN FORTE 600mg tablets
+di1f.	ASPIRIN 300mg e/c tablets
+di1g.	*ASPIRIN 600mg e/c tablets
+di1h.	*ASPIRIN 324mg e/c tablets
+di1i.	*ASPIRIN 600mg tablets
+di1j.	*LABOPRIN DL 900mg sachets
+di1k.	CAPRIN 300mg e/c tablets
+di1m.	ASPIRIN 300mg soluble tablets
+di1n.	ASPIRIN 300mg suppositories
+di1o.	ASPIRIN 150mg suppositories
+di1r.	DISPRIN 300mg disp tabs
+DIM/18533NEMIS	Dipyridamole And Aspirin  M/R 
+DIM/22788EMIS	Disprin Cv  M/R tablets  100 m
+DIM/22789EMIS	Disprin Cv  M/R tablets  300 m
+ENE/35388EMIS	Enprin  E/c tablets  75 mg
+IMM/35359EMIS	Imazin Xl  M/R tablets  
+IMM/35362EMIS	Imazin Xl Forte  M/R tablets  
+ISM/18556NEMIS	Isosorbide Mononitrate And Asp
+ISM/18557NEMIS	Isosorbide Mononitrate And Asp
+j11..	ASPIRIN [MUSCULOSKELETAL USE]
+j111.	ASPIRIN 300mg tablets
+j112.	ASPIRIN 300mg disp tablets
+LETA3828	Levius  Tablets  500 mg
+MIE/6437NEMIS	Micropirin  E/c tablets  75 mg
+NUE/24518EMIS	Nu-Seals Aspirin  E/c tablets 
+NUTA2039	Nu-Seals Aspirin  E/c tablets 
+NUTA2040	Nu-Seals Aspirin  E/c tablets 
+PATA4105	Palaprin Forte  Tablets
+PATA5699	Paynocil  Tablets
+PLEF8526EGTON	Platet 300  Effervescent table
+PLEF8528EGTON	Platet  Effervescent tablets  
+PODI27089EMIS	Postmi 75  Dispersible tablets
+POE/24317EMIS	Postmi 300  E/c tablets  300 m
+POE/26999EMIS	Postmi 75  E/c tablets  75 mg
+SOTA2638	Soluble Aspirin  Tablets  300 
+SOTA2639	Soluble Aspirin Paediatric  Ta
+SOTA5701	Solprin  Tablets  300 mg
+ASDI21516NEMIS	Aspirin And Papaveretum  Dispersible Tablets Sugar Free  500 mg + 7.71 mg
+ASSA21346NEMIS	Aspirin 900mg / Metoclopramide 10mg oral powder sachets sugar free
+dia1.	PARACETAMOL + ASPIRIN & CODEINE tabs 250mg+250mg+6.8mg
+dia4.	ASPIRIN + CODEINE tabs 400mg + 8mg
+dia5.	ASPIRIN + CODEINE disp tab 400mg + 8mg
+diaO.	CO-CODAPRIN sol tab 8mg+500mg
+dl1b.	Aspirin 900mg / Metoclopramide 10mg oral powder sachets s...
+bu5..	CLOPIDOGREL
+bu51.	CLOPIDOGREL 75mg tablets
+bu52.	PLAVIX 75mg tablets
+bu53.	PLAVIX 300mg tablets
+bu54.	CLOPIDOGREL 300mg tablets
+bu55.	GREPID 75mg tablets
+CLTA30106NEMIS	Clopidogrel  Tablets  300 mg
+CLTA34068EMIS	Clopidogrel  Tablets  75 mg
+GRTA38472NEMIS	Grepid  Tablets  75 mg
+PLTA30107NEMIS	Plavix  Tablets  300 mg
+PLTA34066EMIS	Plavix  Tablets  75 mg
+buA..	PRASUGREL
+buA1.	EFIENT 5mg tablets
+buA2.	PRASUGREL 5mg tablets
+buA3.	EFIENT 10mg tablets
+buA4.	PRASUGREL 10mg tablets
+PRTA35180NEMIS	Prasugrel 10mg tablets
+buB..	TICAGRELOR
+buB1.	BRILIQUE 90mg tablets
+buBz.	TICAGRELOR 90mg tablets
+TITA47517NEMIS	Ticagrelor 90mg tablets
+bu...	Clopidogrel 75mg tablets
+PRTA35178NEMIS	Prasugrel 5mg tablets
+
+Death
+=====
+22J..	O/E - dead
+22J1.	O/E - dead - unexpected
+22J2.	O/E - dead - expected
+22J3.	O/E - dead - unattended death
+22J4.	O/E - dead - sudden death
+22J6.	O/E - dead - suspicious death
+22J8.	Death - cause unknown
+22J9.	Perioperative death
+22JA.	Postoperative death
+22JZ.	O/E - dead NOS
+7L1M0	Preoperative anaesthetic death
+8HG..	Died in hospital
+94...	Death administration
+941..	Death certificate form Med A
+9411.	Death cert. Med A due
+9412.	Death cert. Med A signed
+9413.	Med A given to family
+9414.	Med A not signed-coroner case
+941Z.	Death cert. Med A NOS
+943..	Report for Coroner
+9431.	Coroner report - requested
+9432.	Coroner report - sent off
+9433.	Coroner report - paid for
+943Z.	Report for Coroner NOS
+944..	Coroner's post-mortem report
+9441.	Coroner's PM report awaited
+9442.	Coroner's PM report requested
+9443.	Coroner's PM report received
+944Z.	Coroner's PM report NOS
+945..	Hospital death discharge notif
+9451.	Death notif. from hospital
+9452.	Await hosp death disch letter
+9453.	Receiv hosp death disch letter
+9454.	Ask for hosp death disch lett.
+945Z.	Hospital death disch. NOS
+946..	Death notif.- non.hosp source
+947..	Cause of death clarif. SD17/18
+9471.	SD17/18 received-death clarif.
+9472.	SD17/18 completed
+9473.	SD17/18-no details, returned
+947Z.	SD17/18 cause of death NOS
+948..	Cremation certification
+9481.	Patient for cremation
+9482.	Crem. form part B completed
+9483.	Crem. form part C arranged
+9484.	Crem. form part C completed
+9485.	Cremation form 4 completed
+9486.	Cremation form 5 completed
+948Z.	Cremation certification NOS
+949..	Patient died - to record place
+9491.	Patient died at home
+9492.	Patient died in part 3 accom.
+9493.	Patient died in nursing home
+9494.	Patient died in resid.inst.NOS
+9495.	Patient died in hospital
+9496.	Patient died in street
+9497.	Patient died in publ.place NOS
+9498.	Dead on arrival at hospital
+9499.	Found dead at accident site
+949A.	Patient died in hospice
+949B.	Patient died in community hosp
+949C.	Patient died in GP surgery
+949D.	Patient died in care home
+949Z.	Patient died in place NOS
+94A..	Unexpected death-Coroner told
+94B..	Cause of death
+94C..	Post mortem report
+94C0.	Post mortem report received
+94C1.	Police surgeon postmort report
+94D..	Hospital notified of death
+94E..	Date of death
+94F..	Unexpected death
+94G..	Verification of expected death
+G5751	Suddn cardiac death,so descrbd
+R21..	[D]Sudden death, cause unknown
